@@ -31,15 +31,8 @@ url = "http://api.openweathermap.org/data/2.5/weather?"
 units = "Imperial"
 
 query_url = "%sappid=%s&units=%s&q="%(url, api_key, units)
-query_url
+
 ```
-
-
-
-
-    'http://api.openweathermap.org/data/2.5/weather?appid=ecfa6a1cf2efc42a372f2e0aec64ad56&units=Imperial&q='
-
-
 
 
 ```python
