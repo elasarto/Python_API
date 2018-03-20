@@ -1,0 +1,731 @@
+Account Name,Date,Tweet Text,Compound,Positive,Negative,Neutral,Tweets Ago
+CNN,Mon Mar 19 23:21:23 +0000 2018,RT @TheLeadCNN: We're celebrating 5 years of #TheLead with @jaketapper! Thank you to all of our viewers for watching! 📺 https://t.co/3NmZOk…,0.7772,0.285,0.715,0.0,1
+CNN,Mon Mar 19 23:20:00 +0000 2018,"Trump lawyer Michael Cohen jokes about Stormy Daniels, saying he might take ""an extended vacation on her dime""; A l… https://t.co/pTf3j0iLUk",0.25,0.095,0.905,0.0,2
+CNN,Mon Mar 19 23:10:06 +0000 2018,"With just days before a potential shutdown, negotiations continue on a must-pass spending bill… https://t.co/qmINUShnrI",0.0,0.0,1.0,0.0,3
+CNN,Mon Mar 19 23:07:04 +0000 2018,"An anti-abortion, conservative Democrat fights for survival in the Illinois primary https://t.co/IsSkwVA69D https://t.co/3Nv9Gdt00P",-0.4019,0.0,0.816,0.184,4
+CNN,Mon Mar 19 23:01:07 +0000 2018,What you need to know about Facebook's data debacle https://t.co/ngPqheWSSq https://t.co/G7X2Inay7b,0.0,0.0,1.0,0.0,5
+CNN,Mon Mar 19 22:58:04 +0000 2018,The Supreme Court just gave Democrats a much better chance of retaking the House in 2018 | Analysis by @CillizzaCNN… https://t.co/ENTEP3LgMq,0.8176,0.347,0.653,0.0,6
+CNN,Mon Mar 19 22:53:04 +0000 2018,"Republicans are bluntly warning President Trump to lay off his attacks on special counsel Robert Mueller, but there… https://t.co/lBBpwb5d1E",-0.2023,0.086,0.744,0.17,7
+CNN,Mon Mar 19 22:45:47 +0000 2018,President Trump's lawyers recently provided the special counsel's office with documents in an attempt to limit the… https://t.co/hvD3zJposE,0.4019,0.137,0.863,0.0,8
+CNN,Mon Mar 19 22:43:20 +0000 2018,"Senator Warner says it was ""more than a little bit fishy"" that former FBI Deputy Director Andrew McCabe was fired 3… https://t.co/ZD7Fqa0RWu",-0.5574,0.0,0.847,0.153,9
+CNN,Mon Mar 19 22:40:07 +0000 2018,RT @CNNSitRoom: Facebook is under intense pressure to answer questions after it admitted that a company linked to President Trump's campaig…,-0.128,0.123,0.776,0.1,10
+CNN,Mon Mar 19 22:39:29 +0000 2018,Rep. Adam Schiff on Trump attacking special counsel Robert Mueller on Twitter: The President seems to be testing th… https://t.co/fkEcFAG4M8,-0.0772,0.114,0.759,0.127,11
+CNN,Mon Mar 19 22:35:27 +0000 2018,"RT @TheLeadCNN: ""What you have is like the ‘Survivor’ meets ‘The Apprentice’ meets ‘Game of Thrones.’ It is the most insane scenario ... th…",-0.1263,0.091,0.8,0.109,12
+CNN,Mon Mar 19 22:34:14 +0000 2018,"Sen. Jeanne Shaheen: If President Trump has nothing to hide, then he should be interested in seeing this investigat… https://t.co/CwcznrIfm2",0.497,0.19,0.81,0.0,13
+CNN,Mon Mar 19 22:32:12 +0000 2018,Sen. Jeanne Shaheen: I’ve been disappointed more Republican lawmakers aren’t speaking out to protect special counse… https://t.co/FQIXvLkvWF,0.296,0.237,0.625,0.138,14
+CNN,Mon Mar 19 22:29:39 +0000 2018,Sen. Jeanne Shaheen: I’ve been disappointed more Republican lawmakers aren’t speaking out to protect special counse… https://t.co/4XVMG61Kt0,0.296,0.237,0.625,0.138,15
+CNN,Mon Mar 19 22:27:31 +0000 2018,"""[Trump] has been extremely consistent. He hates this investigation,"" and ""he is scared of this investigation."" - T… https://t.co/DzZka7zHAD",-0.7239,0.0,0.725,0.275,16
+CNN,Mon Mar 19 22:18:00 +0000 2018,"RT @TheLeadCNN: Austin, Texas authorities say the 4th bomb that went off overnight is the most sophisticated yet https://t.co/uqdA06osou ht…",0.1761,0.155,0.717,0.128,17
+CNN,Mon Mar 19 22:16:07 +0000 2018,"US President Trump has yet to congratulate Russian President Vladimir Putin on his election, and a phone call betwe… https://t.co/WclI7Tljht",0.4939,0.151,0.849,0.0,18
+CNN,Mon Mar 19 22:11:33 +0000 2018,Uber has removed its self-driving cars from the road after a self-driving Uber SUV struck and killed a pedestrian i… https://t.co/gODSZocjLN,-0.7769,0.0,0.715,0.285,19
+CNN,Mon Mar 19 22:06:46 +0000 2018,"Authorities are speaking in Tempe, Arizona, about the self-driving Uber SUV that struck and killed a woman. Watch o… https://t.co/2WJR68WqSC",-0.7759,0.0,0.715,0.285,20
+CNN,Mon Mar 19 23:21:23 +0000 2018,RT @TheLeadCNN: We're celebrating 5 years of #TheLead with @jaketapper! Thank you to all of our viewers for watching! 📺 https://t.co/3NmZOk…,0.7772,0.285,0.715,0.0,21
+CNN,Mon Mar 19 23:20:00 +0000 2018,"Trump lawyer Michael Cohen jokes about Stormy Daniels, saying he might take ""an extended vacation on her dime""; A l… https://t.co/pTf3j0iLUk",0.25,0.095,0.905,0.0,22
+CNN,Mon Mar 19 23:10:06 +0000 2018,"With just days before a potential shutdown, negotiations continue on a must-pass spending bill… https://t.co/qmINUShnrI",0.0,0.0,1.0,0.0,23
+CNN,Mon Mar 19 23:07:04 +0000 2018,"An anti-abortion, conservative Democrat fights for survival in the Illinois primary https://t.co/IsSkwVA69D https://t.co/3Nv9Gdt00P",-0.4019,0.0,0.816,0.184,24
+CNN,Mon Mar 19 23:01:07 +0000 2018,What you need to know about Facebook's data debacle https://t.co/ngPqheWSSq https://t.co/G7X2Inay7b,0.0,0.0,1.0,0.0,25
+CNN,Mon Mar 19 22:58:04 +0000 2018,The Supreme Court just gave Democrats a much better chance of retaking the House in 2018 | Analysis by @CillizzaCNN… https://t.co/ENTEP3LgMq,0.8176,0.347,0.653,0.0,26
+CNN,Mon Mar 19 22:53:04 +0000 2018,"Republicans are bluntly warning President Trump to lay off his attacks on special counsel Robert Mueller, but there… https://t.co/lBBpwb5d1E",-0.2023,0.086,0.744,0.17,27
+CNN,Mon Mar 19 22:45:47 +0000 2018,President Trump's lawyers recently provided the special counsel's office with documents in an attempt to limit the… https://t.co/hvD3zJposE,0.4019,0.137,0.863,0.0,28
+CNN,Mon Mar 19 22:43:20 +0000 2018,"Senator Warner says it was ""more than a little bit fishy"" that former FBI Deputy Director Andrew McCabe was fired 3… https://t.co/ZD7Fqa0RWu",-0.5574,0.0,0.847,0.153,29
+CNN,Mon Mar 19 22:40:07 +0000 2018,RT @CNNSitRoom: Facebook is under intense pressure to answer questions after it admitted that a company linked to President Trump's campaig…,-0.128,0.123,0.776,0.1,30
+CNN,Mon Mar 19 22:39:29 +0000 2018,Rep. Adam Schiff on Trump attacking special counsel Robert Mueller on Twitter: The President seems to be testing th… https://t.co/fkEcFAG4M8,-0.0772,0.114,0.759,0.127,31
+CNN,Mon Mar 19 22:35:27 +0000 2018,"RT @TheLeadCNN: ""What you have is like the ‘Survivor’ meets ‘The Apprentice’ meets ‘Game of Thrones.’ It is the most insane scenario ... th…",-0.1263,0.091,0.8,0.109,32
+CNN,Mon Mar 19 22:34:14 +0000 2018,"Sen. Jeanne Shaheen: If President Trump has nothing to hide, then he should be interested in seeing this investigat… https://t.co/CwcznrIfm2",0.497,0.19,0.81,0.0,33
+CNN,Mon Mar 19 22:32:12 +0000 2018,Sen. Jeanne Shaheen: I’ve been disappointed more Republican lawmakers aren’t speaking out to protect special counse… https://t.co/FQIXvLkvWF,0.296,0.237,0.625,0.138,34
+CNN,Mon Mar 19 22:29:39 +0000 2018,Sen. Jeanne Shaheen: I’ve been disappointed more Republican lawmakers aren’t speaking out to protect special counse… https://t.co/4XVMG61Kt0,0.296,0.237,0.625,0.138,35
+CNN,Mon Mar 19 22:27:31 +0000 2018,"""[Trump] has been extremely consistent. He hates this investigation,"" and ""he is scared of this investigation."" - T… https://t.co/DzZka7zHAD",-0.7239,0.0,0.725,0.275,36
+CNN,Mon Mar 19 22:18:00 +0000 2018,"RT @TheLeadCNN: Austin, Texas authorities say the 4th bomb that went off overnight is the most sophisticated yet https://t.co/uqdA06osou ht…",0.1761,0.155,0.717,0.128,37
+CNN,Mon Mar 19 22:16:07 +0000 2018,"US President Trump has yet to congratulate Russian President Vladimir Putin on his election, and a phone call betwe… https://t.co/WclI7Tljht",0.4939,0.151,0.849,0.0,38
+CNN,Mon Mar 19 22:11:33 +0000 2018,Uber has removed its self-driving cars from the road after a self-driving Uber SUV struck and killed a pedestrian i… https://t.co/gODSZocjLN,-0.7769,0.0,0.715,0.285,39
+CNN,Mon Mar 19 22:06:46 +0000 2018,"Authorities are speaking in Tempe, Arizona, about the self-driving Uber SUV that struck and killed a woman. Watch o… https://t.co/2WJR68WqSC",-0.7759,0.0,0.715,0.285,40
+CNN,Mon Mar 19 23:21:23 +0000 2018,RT @TheLeadCNN: We're celebrating 5 years of #TheLead with @jaketapper! Thank you to all of our viewers for watching! 📺 https://t.co/3NmZOk…,0.7772,0.285,0.715,0.0,41
+CNN,Mon Mar 19 23:20:00 +0000 2018,"Trump lawyer Michael Cohen jokes about Stormy Daniels, saying he might take ""an extended vacation on her dime""; A l… https://t.co/pTf3j0iLUk",0.25,0.095,0.905,0.0,42
+CNN,Mon Mar 19 23:10:06 +0000 2018,"With just days before a potential shutdown, negotiations continue on a must-pass spending bill… https://t.co/qmINUShnrI",0.0,0.0,1.0,0.0,43
+CNN,Mon Mar 19 23:07:04 +0000 2018,"An anti-abortion, conservative Democrat fights for survival in the Illinois primary https://t.co/IsSkwVA69D https://t.co/3Nv9Gdt00P",-0.4019,0.0,0.816,0.184,44
+CNN,Mon Mar 19 23:01:07 +0000 2018,What you need to know about Facebook's data debacle https://t.co/ngPqheWSSq https://t.co/G7X2Inay7b,0.0,0.0,1.0,0.0,45
+CNN,Mon Mar 19 22:58:04 +0000 2018,The Supreme Court just gave Democrats a much better chance of retaking the House in 2018 | Analysis by @CillizzaCNN… https://t.co/ENTEP3LgMq,0.8176,0.347,0.653,0.0,46
+CNN,Mon Mar 19 22:53:04 +0000 2018,"Republicans are bluntly warning President Trump to lay off his attacks on special counsel Robert Mueller, but there… https://t.co/lBBpwb5d1E",-0.2023,0.086,0.744,0.17,47
+CNN,Mon Mar 19 22:45:47 +0000 2018,President Trump's lawyers recently provided the special counsel's office with documents in an attempt to limit the… https://t.co/hvD3zJposE,0.4019,0.137,0.863,0.0,48
+CNN,Mon Mar 19 22:43:20 +0000 2018,"Senator Warner says it was ""more than a little bit fishy"" that former FBI Deputy Director Andrew McCabe was fired 3… https://t.co/ZD7Fqa0RWu",-0.5574,0.0,0.847,0.153,49
+CNN,Mon Mar 19 22:40:07 +0000 2018,RT @CNNSitRoom: Facebook is under intense pressure to answer questions after it admitted that a company linked to President Trump's campaig…,-0.128,0.123,0.776,0.1,50
+CNN,Mon Mar 19 22:39:29 +0000 2018,Rep. Adam Schiff on Trump attacking special counsel Robert Mueller on Twitter: The President seems to be testing th… https://t.co/fkEcFAG4M8,-0.0772,0.114,0.759,0.127,51
+CNN,Mon Mar 19 22:35:27 +0000 2018,"RT @TheLeadCNN: ""What you have is like the ‘Survivor’ meets ‘The Apprentice’ meets ‘Game of Thrones.’ It is the most insane scenario ... th…",-0.1263,0.091,0.8,0.109,52
+CNN,Mon Mar 19 22:34:14 +0000 2018,"Sen. Jeanne Shaheen: If President Trump has nothing to hide, then he should be interested in seeing this investigat… https://t.co/CwcznrIfm2",0.497,0.19,0.81,0.0,53
+CNN,Mon Mar 19 22:32:12 +0000 2018,Sen. Jeanne Shaheen: I’ve been disappointed more Republican lawmakers aren’t speaking out to protect special counse… https://t.co/FQIXvLkvWF,0.296,0.237,0.625,0.138,54
+CNN,Mon Mar 19 22:29:39 +0000 2018,Sen. Jeanne Shaheen: I’ve been disappointed more Republican lawmakers aren’t speaking out to protect special counse… https://t.co/4XVMG61Kt0,0.296,0.237,0.625,0.138,55
+CNN,Mon Mar 19 22:27:31 +0000 2018,"""[Trump] has been extremely consistent. He hates this investigation,"" and ""he is scared of this investigation."" - T… https://t.co/DzZka7zHAD",-0.7239,0.0,0.725,0.275,56
+CNN,Mon Mar 19 22:18:00 +0000 2018,"RT @TheLeadCNN: Austin, Texas authorities say the 4th bomb that went off overnight is the most sophisticated yet https://t.co/uqdA06osou ht…",0.1761,0.155,0.717,0.128,57
+CNN,Mon Mar 19 22:16:07 +0000 2018,"US President Trump has yet to congratulate Russian President Vladimir Putin on his election, and a phone call betwe… https://t.co/WclI7Tljht",0.4939,0.151,0.849,0.0,58
+CNN,Mon Mar 19 22:11:33 +0000 2018,Uber has removed its self-driving cars from the road after a self-driving Uber SUV struck and killed a pedestrian i… https://t.co/gODSZocjLN,-0.7769,0.0,0.715,0.285,59
+CNN,Mon Mar 19 22:06:46 +0000 2018,"Authorities are speaking in Tempe, Arizona, about the self-driving Uber SUV that struck and killed a woman. Watch o… https://t.co/2WJR68WqSC",-0.7759,0.0,0.715,0.285,60
+CNN,Mon Mar 19 23:21:23 +0000 2018,RT @TheLeadCNN: We're celebrating 5 years of #TheLead with @jaketapper! Thank you to all of our viewers for watching! 📺 https://t.co/3NmZOk…,0.7772,0.285,0.715,0.0,61
+CNN,Mon Mar 19 23:20:00 +0000 2018,"Trump lawyer Michael Cohen jokes about Stormy Daniels, saying he might take ""an extended vacation on her dime""; A l… https://t.co/pTf3j0iLUk",0.25,0.095,0.905,0.0,62
+CNN,Mon Mar 19 23:10:06 +0000 2018,"With just days before a potential shutdown, negotiations continue on a must-pass spending bill… https://t.co/qmINUShnrI",0.0,0.0,1.0,0.0,63
+CNN,Mon Mar 19 23:07:04 +0000 2018,"An anti-abortion, conservative Democrat fights for survival in the Illinois primary https://t.co/IsSkwVA69D https://t.co/3Nv9Gdt00P",-0.4019,0.0,0.816,0.184,64
+CNN,Mon Mar 19 23:01:07 +0000 2018,What you need to know about Facebook's data debacle https://t.co/ngPqheWSSq https://t.co/G7X2Inay7b,0.0,0.0,1.0,0.0,65
+CNN,Mon Mar 19 22:58:04 +0000 2018,The Supreme Court just gave Democrats a much better chance of retaking the House in 2018 | Analysis by @CillizzaCNN… https://t.co/ENTEP3LgMq,0.8176,0.347,0.653,0.0,66
+CNN,Mon Mar 19 22:53:04 +0000 2018,"Republicans are bluntly warning President Trump to lay off his attacks on special counsel Robert Mueller, but there… https://t.co/lBBpwb5d1E",-0.2023,0.086,0.744,0.17,67
+CNN,Mon Mar 19 22:45:47 +0000 2018,President Trump's lawyers recently provided the special counsel's office with documents in an attempt to limit the… https://t.co/hvD3zJposE,0.4019,0.137,0.863,0.0,68
+CNN,Mon Mar 19 22:43:20 +0000 2018,"Senator Warner says it was ""more than a little bit fishy"" that former FBI Deputy Director Andrew McCabe was fired 3… https://t.co/ZD7Fqa0RWu",-0.5574,0.0,0.847,0.153,69
+CNN,Mon Mar 19 22:40:07 +0000 2018,RT @CNNSitRoom: Facebook is under intense pressure to answer questions after it admitted that a company linked to President Trump's campaig…,-0.128,0.123,0.776,0.1,70
+CNN,Mon Mar 19 22:39:29 +0000 2018,Rep. Adam Schiff on Trump attacking special counsel Robert Mueller on Twitter: The President seems to be testing th… https://t.co/fkEcFAG4M8,-0.0772,0.114,0.759,0.127,71
+CNN,Mon Mar 19 22:35:27 +0000 2018,"RT @TheLeadCNN: ""What you have is like the ‘Survivor’ meets ‘The Apprentice’ meets ‘Game of Thrones.’ It is the most insane scenario ... th…",-0.1263,0.091,0.8,0.109,72
+CNN,Mon Mar 19 22:34:14 +0000 2018,"Sen. Jeanne Shaheen: If President Trump has nothing to hide, then he should be interested in seeing this investigat… https://t.co/CwcznrIfm2",0.497,0.19,0.81,0.0,73
+CNN,Mon Mar 19 22:32:12 +0000 2018,Sen. Jeanne Shaheen: I’ve been disappointed more Republican lawmakers aren’t speaking out to protect special counse… https://t.co/FQIXvLkvWF,0.296,0.237,0.625,0.138,74
+CNN,Mon Mar 19 22:29:39 +0000 2018,Sen. Jeanne Shaheen: I’ve been disappointed more Republican lawmakers aren’t speaking out to protect special counse… https://t.co/4XVMG61Kt0,0.296,0.237,0.625,0.138,75
+CNN,Mon Mar 19 22:27:31 +0000 2018,"""[Trump] has been extremely consistent. He hates this investigation,"" and ""he is scared of this investigation."" - T… https://t.co/DzZka7zHAD",-0.7239,0.0,0.725,0.275,76
+CNN,Mon Mar 19 22:18:00 +0000 2018,"RT @TheLeadCNN: Austin, Texas authorities say the 4th bomb that went off overnight is the most sophisticated yet https://t.co/uqdA06osou ht…",0.1761,0.155,0.717,0.128,77
+CNN,Mon Mar 19 22:16:07 +0000 2018,"US President Trump has yet to congratulate Russian President Vladimir Putin on his election, and a phone call betwe… https://t.co/WclI7Tljht",0.4939,0.151,0.849,0.0,78
+CNN,Mon Mar 19 22:11:33 +0000 2018,Uber has removed its self-driving cars from the road after a self-driving Uber SUV struck and killed a pedestrian i… https://t.co/gODSZocjLN,-0.7769,0.0,0.715,0.285,79
+CNN,Mon Mar 19 22:06:46 +0000 2018,"Authorities are speaking in Tempe, Arizona, about the self-driving Uber SUV that struck and killed a woman. Watch o… https://t.co/2WJR68WqSC",-0.7759,0.0,0.715,0.285,80
+CNN,Mon Mar 19 23:21:23 +0000 2018,RT @TheLeadCNN: We're celebrating 5 years of #TheLead with @jaketapper! Thank you to all of our viewers for watching! 📺 https://t.co/3NmZOk…,0.7772,0.285,0.715,0.0,81
+CNN,Mon Mar 19 23:20:00 +0000 2018,"Trump lawyer Michael Cohen jokes about Stormy Daniels, saying he might take ""an extended vacation on her dime""; A l… https://t.co/pTf3j0iLUk",0.25,0.095,0.905,0.0,82
+CNN,Mon Mar 19 23:10:06 +0000 2018,"With just days before a potential shutdown, negotiations continue on a must-pass spending bill… https://t.co/qmINUShnrI",0.0,0.0,1.0,0.0,83
+CNN,Mon Mar 19 23:07:04 +0000 2018,"An anti-abortion, conservative Democrat fights for survival in the Illinois primary https://t.co/IsSkwVA69D https://t.co/3Nv9Gdt00P",-0.4019,0.0,0.816,0.184,84
+CNN,Mon Mar 19 23:01:07 +0000 2018,What you need to know about Facebook's data debacle https://t.co/ngPqheWSSq https://t.co/G7X2Inay7b,0.0,0.0,1.0,0.0,85
+CNN,Mon Mar 19 22:58:04 +0000 2018,The Supreme Court just gave Democrats a much better chance of retaking the House in 2018 | Analysis by @CillizzaCNN… https://t.co/ENTEP3LgMq,0.8176,0.347,0.653,0.0,86
+CNN,Mon Mar 19 22:53:04 +0000 2018,"Republicans are bluntly warning President Trump to lay off his attacks on special counsel Robert Mueller, but there… https://t.co/lBBpwb5d1E",-0.2023,0.086,0.744,0.17,87
+CNN,Mon Mar 19 22:45:47 +0000 2018,President Trump's lawyers recently provided the special counsel's office with documents in an attempt to limit the… https://t.co/hvD3zJposE,0.4019,0.137,0.863,0.0,88
+CNN,Mon Mar 19 22:43:20 +0000 2018,"Senator Warner says it was ""more than a little bit fishy"" that former FBI Deputy Director Andrew McCabe was fired 3… https://t.co/ZD7Fqa0RWu",-0.5574,0.0,0.847,0.153,89
+CNN,Mon Mar 19 22:40:07 +0000 2018,RT @CNNSitRoom: Facebook is under intense pressure to answer questions after it admitted that a company linked to President Trump's campaig…,-0.128,0.123,0.776,0.1,90
+CNN,Mon Mar 19 22:39:29 +0000 2018,Rep. Adam Schiff on Trump attacking special counsel Robert Mueller on Twitter: The President seems to be testing th… https://t.co/fkEcFAG4M8,-0.0772,0.114,0.759,0.127,91
+CNN,Mon Mar 19 22:35:27 +0000 2018,"RT @TheLeadCNN: ""What you have is like the ‘Survivor’ meets ‘The Apprentice’ meets ‘Game of Thrones.’ It is the most insane scenario ... th…",-0.1263,0.091,0.8,0.109,92
+CNN,Mon Mar 19 22:34:14 +0000 2018,"Sen. Jeanne Shaheen: If President Trump has nothing to hide, then he should be interested in seeing this investigat… https://t.co/CwcznrIfm2",0.497,0.19,0.81,0.0,93
+CNN,Mon Mar 19 22:32:12 +0000 2018,Sen. Jeanne Shaheen: I’ve been disappointed more Republican lawmakers aren’t speaking out to protect special counse… https://t.co/FQIXvLkvWF,0.296,0.237,0.625,0.138,94
+CNN,Mon Mar 19 22:29:39 +0000 2018,Sen. Jeanne Shaheen: I’ve been disappointed more Republican lawmakers aren’t speaking out to protect special counse… https://t.co/4XVMG61Kt0,0.296,0.237,0.625,0.138,95
+CNN,Mon Mar 19 22:27:31 +0000 2018,"""[Trump] has been extremely consistent. He hates this investigation,"" and ""he is scared of this investigation."" - T… https://t.co/DzZka7zHAD",-0.7239,0.0,0.725,0.275,96
+CNN,Mon Mar 19 22:18:00 +0000 2018,"RT @TheLeadCNN: Austin, Texas authorities say the 4th bomb that went off overnight is the most sophisticated yet https://t.co/uqdA06osou ht…",0.1761,0.155,0.717,0.128,97
+CNN,Mon Mar 19 22:16:07 +0000 2018,"US President Trump has yet to congratulate Russian President Vladimir Putin on his election, and a phone call betwe… https://t.co/WclI7Tljht",0.4939,0.151,0.849,0.0,98
+CNN,Mon Mar 19 22:11:33 +0000 2018,Uber has removed its self-driving cars from the road after a self-driving Uber SUV struck and killed a pedestrian i… https://t.co/gODSZocjLN,-0.7769,0.0,0.715,0.285,99
+CNN,Mon Mar 19 22:06:46 +0000 2018,"Authorities are speaking in Tempe, Arizona, about the self-driving Uber SUV that struck and killed a woman. Watch o… https://t.co/2WJR68WqSC",-0.7759,0.0,0.715,0.285,100
+The New York Times,Mon Mar 19 23:17:05 +0000 2018,"RT @KevinQ: The worst places for poor white children are almost all better than the best places for poor black children.
+
+https://t.co/EPZt…",-0.539,0.2,0.498,0.302,1
+The New York Times,Mon Mar 19 23:02:04 +0000 2018,Evening Briefing: Here's what you need to know at the end of the day https://t.co/tQvejB0Xpm,0.0,0.0,1.0,0.0,2
+The New York Times,Mon Mar 19 22:44:07 +0000 2018,RT @nicoleperlroth: NEW: Facebook's security officer @alexstamos is leaving the company amid disagreements with Facebook execs over how to…,-0.1027,0.108,0.766,0.126,3
+The New York Times,Mon Mar 19 22:34:00 +0000 2018,Alex Stamos is said to be leaving Facebook after internal disagreements over how the social network should deal wit… https://t.co/2tbsL4WojM,-0.4215,0.0,0.872,0.128,4
+The New York Times,Mon Mar 19 22:24:55 +0000 2018,Breaking News: A Facebook executive who urged transparency on Russian disinformation is said to be leaving after cl… https://t.co/iFVb6BY6j7,0.0,0.0,1.0,0.0,5
+The New York Times,Mon Mar 19 22:17:03 +0000 2018,"RT @UpshotNYT: The Supreme Court today refused to Intervene in the Pa. redistricting case. That means these districts are holding up, and D…",0.34,0.134,0.784,0.082,6
+The New York Times,Mon Mar 19 22:02:07 +0000 2018,Photographers find new ways to frame the natural world https://t.co/dSKQ3jE90n https://t.co/2oMSS8Vyi9,0.3612,0.2,0.8,0.0,7
+The New York Times,Mon Mar 19 21:47:01 +0000 2018,"RT @julieturkewitz: Tweeting some of the reaction to our story today: ""I have long thought the absence of Native Americans from any form of…",0.0,0.0,1.0,0.0,8
+The New York Times,Mon Mar 19 21:32:07 +0000 2018,"Al Pacino and Michelle Pfeiffer will reunite for a 35th anniversary screening of ""Scarface"" at the Tribeca Film Fes… https://t.co/CHjotO0oT8",0.0,0.0,1.0,0.0,9
+The New York Times,Mon Mar 19 21:20:10 +0000 2018,"“Send some girls around to the candidate’s house.”
+
+As part of a monthslong investigation into Cambridge Analytica,… https://t.co/YP7xSJ59Gx",0.0,0.0,1.0,0.0,10
+The New York Times,Mon Mar 19 21:10:05 +0000 2018,RT @readercenter: A @nytimes article published today on race and the income gap led to a big discussion among our readers. Submit a questio…,0.0,0.0,1.0,0.0,11
+The New York Times,Mon Mar 19 21:00:21 +0000 2018,"Catharine MacKinnon: ""People have asked me for 40 years how not to get sued for sexual harassment. Well, a good fir… https://t.co/aiuh7NXSzK",0.128,0.189,0.679,0.132,12
+The New York Times,Mon Mar 19 20:50:06 +0000 2018,"Justin Verlander brought value to the Astros last season, when he joined in a trade and helped them win the World S… https://t.co/8yl93W3HoA",0.7351,0.237,0.763,0.0,13
+The New York Times,Mon Mar 19 20:40:10 +0000 2018,“Everyone in Austin is in the process of trying to figure out exactly how nervous to be. Are these bombings targete… https://t.co/5Pg0Ep4PRR,-0.2732,0.0,0.909,0.091,14
+The New York Times,Mon Mar 19 20:33:00 +0000 2018,Read our report on how servers and bartenders weigh harassing behavior from customers against the tips they need to… https://t.co/N9dFagqWIa,-0.5423,0.0,0.844,0.156,15
+The New York Times,Mon Mar 19 20:30:18 +0000 2018,"Our report on the sexual harassment endured by restaurant servers drew 1,200 responses from readers: on money, powe… https://t.co/VnCiSwIYgy",-0.5423,0.0,0.837,0.163,16
+The New York Times,Mon Mar 19 20:20:07 +0000 2018,RT @nytimestravel: Do you see Wakanda as a series of magical neighborhoods floating in midair? Would the magnetic levitation subway in trav…,0.0,0.0,1.0,0.0,17
+The New York Times,Mon Mar 19 20:17:56 +0000 2018,"“Send some girls around to the candidate’s house”: As part of a monthslong investigation into Cambridge Analytica,… https://t.co/FMEWKpKCUa",0.0,0.0,1.0,0.0,18
+The New York Times,Mon Mar 19 20:14:53 +0000 2018,"However, the firm’s employees, who often overlap, had contact in 2014 and 2015 with executives from Lukoil, the Rus… https://t.co/8Q90TwYuIH",0.0,0.0,1.0,0.0,19
+The New York Times,Mon Mar 19 20:13:08 +0000 2018,"Alexander Nix, a director of SCL Group, a British political and defense contractor, and chief executive of its Amer… https://t.co/CZMF8buD3n",0.128,0.081,0.919,0.0,20
+The New York Times,Mon Mar 19 23:17:05 +0000 2018,"RT @KevinQ: The worst places for poor white children are almost all better than the best places for poor black children.
+
+https://t.co/EPZt…",-0.539,0.2,0.498,0.302,21
+The New York Times,Mon Mar 19 23:02:04 +0000 2018,Evening Briefing: Here's what you need to know at the end of the day https://t.co/tQvejB0Xpm,0.0,0.0,1.0,0.0,22
+The New York Times,Mon Mar 19 22:44:07 +0000 2018,RT @nicoleperlroth: NEW: Facebook's security officer @alexstamos is leaving the company amid disagreements with Facebook execs over how to…,-0.1027,0.108,0.766,0.126,23
+The New York Times,Mon Mar 19 22:34:00 +0000 2018,Alex Stamos is said to be leaving Facebook after internal disagreements over how the social network should deal wit… https://t.co/2tbsL4WojM,-0.4215,0.0,0.872,0.128,24
+The New York Times,Mon Mar 19 22:24:55 +0000 2018,Breaking News: A Facebook executive who urged transparency on Russian disinformation is said to be leaving after cl… https://t.co/iFVb6BY6j7,0.0,0.0,1.0,0.0,25
+The New York Times,Mon Mar 19 22:17:03 +0000 2018,"RT @UpshotNYT: The Supreme Court today refused to Intervene in the Pa. redistricting case. That means these districts are holding up, and D…",0.34,0.134,0.784,0.082,26
+The New York Times,Mon Mar 19 22:02:07 +0000 2018,Photographers find new ways to frame the natural world https://t.co/dSKQ3jE90n https://t.co/2oMSS8Vyi9,0.3612,0.2,0.8,0.0,27
+The New York Times,Mon Mar 19 21:47:01 +0000 2018,"RT @julieturkewitz: Tweeting some of the reaction to our story today: ""I have long thought the absence of Native Americans from any form of…",0.0,0.0,1.0,0.0,28
+The New York Times,Mon Mar 19 21:32:07 +0000 2018,"Al Pacino and Michelle Pfeiffer will reunite for a 35th anniversary screening of ""Scarface"" at the Tribeca Film Fes… https://t.co/CHjotO0oT8",0.0,0.0,1.0,0.0,29
+The New York Times,Mon Mar 19 21:20:10 +0000 2018,"“Send some girls around to the candidate’s house.”
+
+As part of a monthslong investigation into Cambridge Analytica,… https://t.co/YP7xSJ59Gx",0.0,0.0,1.0,0.0,30
+The New York Times,Mon Mar 19 21:10:05 +0000 2018,RT @readercenter: A @nytimes article published today on race and the income gap led to a big discussion among our readers. Submit a questio…,0.0,0.0,1.0,0.0,31
+The New York Times,Mon Mar 19 21:00:21 +0000 2018,"Catharine MacKinnon: ""People have asked me for 40 years how not to get sued for sexual harassment. Well, a good fir… https://t.co/aiuh7NXSzK",0.128,0.189,0.679,0.132,32
+The New York Times,Mon Mar 19 20:50:06 +0000 2018,"Justin Verlander brought value to the Astros last season, when he joined in a trade and helped them win the World S… https://t.co/8yl93W3HoA",0.7351,0.237,0.763,0.0,33
+The New York Times,Mon Mar 19 20:40:10 +0000 2018,“Everyone in Austin is in the process of trying to figure out exactly how nervous to be. Are these bombings targete… https://t.co/5Pg0Ep4PRR,-0.2732,0.0,0.909,0.091,34
+The New York Times,Mon Mar 19 20:33:00 +0000 2018,Read our report on how servers and bartenders weigh harassing behavior from customers against the tips they need to… https://t.co/N9dFagqWIa,-0.5423,0.0,0.844,0.156,35
+The New York Times,Mon Mar 19 20:30:18 +0000 2018,"Our report on the sexual harassment endured by restaurant servers drew 1,200 responses from readers: on money, powe… https://t.co/VnCiSwIYgy",-0.5423,0.0,0.837,0.163,36
+The New York Times,Mon Mar 19 20:20:07 +0000 2018,RT @nytimestravel: Do you see Wakanda as a series of magical neighborhoods floating in midair? Would the magnetic levitation subway in trav…,0.0,0.0,1.0,0.0,37
+The New York Times,Mon Mar 19 20:17:56 +0000 2018,"“Send some girls around to the candidate’s house”: As part of a monthslong investigation into Cambridge Analytica,… https://t.co/FMEWKpKCUa",0.0,0.0,1.0,0.0,38
+The New York Times,Mon Mar 19 20:14:53 +0000 2018,"However, the firm’s employees, who often overlap, had contact in 2014 and 2015 with executives from Lukoil, the Rus… https://t.co/8Q90TwYuIH",0.0,0.0,1.0,0.0,39
+The New York Times,Mon Mar 19 20:13:08 +0000 2018,"Alexander Nix, a director of SCL Group, a British political and defense contractor, and chief executive of its Amer… https://t.co/CZMF8buD3n",0.128,0.081,0.919,0.0,40
+The New York Times,Mon Mar 19 23:17:05 +0000 2018,"RT @KevinQ: The worst places for poor white children are almost all better than the best places for poor black children.
+
+https://t.co/EPZt…",-0.539,0.2,0.498,0.302,41
+The New York Times,Mon Mar 19 23:02:04 +0000 2018,Evening Briefing: Here's what you need to know at the end of the day https://t.co/tQvejB0Xpm,0.0,0.0,1.0,0.0,42
+The New York Times,Mon Mar 19 22:44:07 +0000 2018,RT @nicoleperlroth: NEW: Facebook's security officer @alexstamos is leaving the company amid disagreements with Facebook execs over how to…,-0.1027,0.108,0.766,0.126,43
+The New York Times,Mon Mar 19 22:34:00 +0000 2018,Alex Stamos is said to be leaving Facebook after internal disagreements over how the social network should deal wit… https://t.co/2tbsL4WojM,-0.4215,0.0,0.872,0.128,44
+The New York Times,Mon Mar 19 22:24:55 +0000 2018,Breaking News: A Facebook executive who urged transparency on Russian disinformation is said to be leaving after cl… https://t.co/iFVb6BY6j7,0.0,0.0,1.0,0.0,45
+The New York Times,Mon Mar 19 22:17:03 +0000 2018,"RT @UpshotNYT: The Supreme Court today refused to Intervene in the Pa. redistricting case. That means these districts are holding up, and D…",0.34,0.134,0.784,0.082,46
+The New York Times,Mon Mar 19 22:02:07 +0000 2018,Photographers find new ways to frame the natural world https://t.co/dSKQ3jE90n https://t.co/2oMSS8Vyi9,0.3612,0.2,0.8,0.0,47
+The New York Times,Mon Mar 19 21:47:01 +0000 2018,"RT @julieturkewitz: Tweeting some of the reaction to our story today: ""I have long thought the absence of Native Americans from any form of…",0.0,0.0,1.0,0.0,48
+The New York Times,Mon Mar 19 21:32:07 +0000 2018,"Al Pacino and Michelle Pfeiffer will reunite for a 35th anniversary screening of ""Scarface"" at the Tribeca Film Fes… https://t.co/CHjotO0oT8",0.0,0.0,1.0,0.0,49
+The New York Times,Mon Mar 19 21:20:10 +0000 2018,"“Send some girls around to the candidate’s house.”
+
+As part of a monthslong investigation into Cambridge Analytica,… https://t.co/YP7xSJ59Gx",0.0,0.0,1.0,0.0,50
+The New York Times,Mon Mar 19 21:10:05 +0000 2018,RT @readercenter: A @nytimes article published today on race and the income gap led to a big discussion among our readers. Submit a questio…,0.0,0.0,1.0,0.0,51
+The New York Times,Mon Mar 19 21:00:21 +0000 2018,"Catharine MacKinnon: ""People have asked me for 40 years how not to get sued for sexual harassment. Well, a good fir… https://t.co/aiuh7NXSzK",0.128,0.189,0.679,0.132,52
+The New York Times,Mon Mar 19 20:50:06 +0000 2018,"Justin Verlander brought value to the Astros last season, when he joined in a trade and helped them win the World S… https://t.co/8yl93W3HoA",0.7351,0.237,0.763,0.0,53
+The New York Times,Mon Mar 19 20:40:10 +0000 2018,“Everyone in Austin is in the process of trying to figure out exactly how nervous to be. Are these bombings targete… https://t.co/5Pg0Ep4PRR,-0.2732,0.0,0.909,0.091,54
+The New York Times,Mon Mar 19 20:33:00 +0000 2018,Read our report on how servers and bartenders weigh harassing behavior from customers against the tips they need to… https://t.co/N9dFagqWIa,-0.5423,0.0,0.844,0.156,55
+The New York Times,Mon Mar 19 20:30:18 +0000 2018,"Our report on the sexual harassment endured by restaurant servers drew 1,200 responses from readers: on money, powe… https://t.co/VnCiSwIYgy",-0.5423,0.0,0.837,0.163,56
+The New York Times,Mon Mar 19 20:20:07 +0000 2018,RT @nytimestravel: Do you see Wakanda as a series of magical neighborhoods floating in midair? Would the magnetic levitation subway in trav…,0.0,0.0,1.0,0.0,57
+The New York Times,Mon Mar 19 20:17:56 +0000 2018,"“Send some girls around to the candidate’s house”: As part of a monthslong investigation into Cambridge Analytica,… https://t.co/FMEWKpKCUa",0.0,0.0,1.0,0.0,58
+The New York Times,Mon Mar 19 20:14:53 +0000 2018,"However, the firm’s employees, who often overlap, had contact in 2014 and 2015 with executives from Lukoil, the Rus… https://t.co/8Q90TwYuIH",0.0,0.0,1.0,0.0,59
+The New York Times,Mon Mar 19 20:13:08 +0000 2018,"Alexander Nix, a director of SCL Group, a British political and defense contractor, and chief executive of its Amer… https://t.co/CZMF8buD3n",0.128,0.081,0.919,0.0,60
+The New York Times,Mon Mar 19 23:17:05 +0000 2018,"RT @KevinQ: The worst places for poor white children are almost all better than the best places for poor black children.
+
+https://t.co/EPZt…",-0.539,0.2,0.498,0.302,61
+The New York Times,Mon Mar 19 23:02:04 +0000 2018,Evening Briefing: Here's what you need to know at the end of the day https://t.co/tQvejB0Xpm,0.0,0.0,1.0,0.0,62
+The New York Times,Mon Mar 19 22:44:07 +0000 2018,RT @nicoleperlroth: NEW: Facebook's security officer @alexstamos is leaving the company amid disagreements with Facebook execs over how to…,-0.1027,0.108,0.766,0.126,63
+The New York Times,Mon Mar 19 22:34:00 +0000 2018,Alex Stamos is said to be leaving Facebook after internal disagreements over how the social network should deal wit… https://t.co/2tbsL4WojM,-0.4215,0.0,0.872,0.128,64
+The New York Times,Mon Mar 19 22:24:55 +0000 2018,Breaking News: A Facebook executive who urged transparency on Russian disinformation is said to be leaving after cl… https://t.co/iFVb6BY6j7,0.0,0.0,1.0,0.0,65
+The New York Times,Mon Mar 19 22:17:03 +0000 2018,"RT @UpshotNYT: The Supreme Court today refused to Intervene in the Pa. redistricting case. That means these districts are holding up, and D…",0.34,0.134,0.784,0.082,66
+The New York Times,Mon Mar 19 22:02:07 +0000 2018,Photographers find new ways to frame the natural world https://t.co/dSKQ3jE90n https://t.co/2oMSS8Vyi9,0.3612,0.2,0.8,0.0,67
+The New York Times,Mon Mar 19 21:47:01 +0000 2018,"RT @julieturkewitz: Tweeting some of the reaction to our story today: ""I have long thought the absence of Native Americans from any form of…",0.0,0.0,1.0,0.0,68
+The New York Times,Mon Mar 19 21:32:07 +0000 2018,"Al Pacino and Michelle Pfeiffer will reunite for a 35th anniversary screening of ""Scarface"" at the Tribeca Film Fes… https://t.co/CHjotO0oT8",0.0,0.0,1.0,0.0,69
+The New York Times,Mon Mar 19 21:20:10 +0000 2018,"“Send some girls around to the candidate’s house.”
+
+As part of a monthslong investigation into Cambridge Analytica,… https://t.co/YP7xSJ59Gx",0.0,0.0,1.0,0.0,70
+The New York Times,Mon Mar 19 21:10:05 +0000 2018,RT @readercenter: A @nytimes article published today on race and the income gap led to a big discussion among our readers. Submit a questio…,0.0,0.0,1.0,0.0,71
+The New York Times,Mon Mar 19 21:00:21 +0000 2018,"Catharine MacKinnon: ""People have asked me for 40 years how not to get sued for sexual harassment. Well, a good fir… https://t.co/aiuh7NXSzK",0.128,0.189,0.679,0.132,72
+The New York Times,Mon Mar 19 20:50:06 +0000 2018,"Justin Verlander brought value to the Astros last season, when he joined in a trade and helped them win the World S… https://t.co/8yl93W3HoA",0.7351,0.237,0.763,0.0,73
+The New York Times,Mon Mar 19 20:40:10 +0000 2018,“Everyone in Austin is in the process of trying to figure out exactly how nervous to be. Are these bombings targete… https://t.co/5Pg0Ep4PRR,-0.2732,0.0,0.909,0.091,74
+The New York Times,Mon Mar 19 20:33:00 +0000 2018,Read our report on how servers and bartenders weigh harassing behavior from customers against the tips they need to… https://t.co/N9dFagqWIa,-0.5423,0.0,0.844,0.156,75
+The New York Times,Mon Mar 19 20:30:18 +0000 2018,"Our report on the sexual harassment endured by restaurant servers drew 1,200 responses from readers: on money, powe… https://t.co/VnCiSwIYgy",-0.5423,0.0,0.837,0.163,76
+The New York Times,Mon Mar 19 20:20:07 +0000 2018,RT @nytimestravel: Do you see Wakanda as a series of magical neighborhoods floating in midair? Would the magnetic levitation subway in trav…,0.0,0.0,1.0,0.0,77
+The New York Times,Mon Mar 19 20:17:56 +0000 2018,"“Send some girls around to the candidate’s house”: As part of a monthslong investigation into Cambridge Analytica,… https://t.co/FMEWKpKCUa",0.0,0.0,1.0,0.0,78
+The New York Times,Mon Mar 19 20:14:53 +0000 2018,"However, the firm’s employees, who often overlap, had contact in 2014 and 2015 with executives from Lukoil, the Rus… https://t.co/8Q90TwYuIH",0.0,0.0,1.0,0.0,79
+The New York Times,Mon Mar 19 20:13:08 +0000 2018,"Alexander Nix, a director of SCL Group, a British political and defense contractor, and chief executive of its Amer… https://t.co/CZMF8buD3n",0.128,0.081,0.919,0.0,80
+The New York Times,Mon Mar 19 23:17:05 +0000 2018,"RT @KevinQ: The worst places for poor white children are almost all better than the best places for poor black children.
+
+https://t.co/EPZt…",-0.539,0.2,0.498,0.302,81
+The New York Times,Mon Mar 19 23:02:04 +0000 2018,Evening Briefing: Here's what you need to know at the end of the day https://t.co/tQvejB0Xpm,0.0,0.0,1.0,0.0,82
+The New York Times,Mon Mar 19 22:44:07 +0000 2018,RT @nicoleperlroth: NEW: Facebook's security officer @alexstamos is leaving the company amid disagreements with Facebook execs over how to…,-0.1027,0.108,0.766,0.126,83
+The New York Times,Mon Mar 19 22:34:00 +0000 2018,Alex Stamos is said to be leaving Facebook after internal disagreements over how the social network should deal wit… https://t.co/2tbsL4WojM,-0.4215,0.0,0.872,0.128,84
+The New York Times,Mon Mar 19 22:24:55 +0000 2018,Breaking News: A Facebook executive who urged transparency on Russian disinformation is said to be leaving after cl… https://t.co/iFVb6BY6j7,0.0,0.0,1.0,0.0,85
+The New York Times,Mon Mar 19 22:17:03 +0000 2018,"RT @UpshotNYT: The Supreme Court today refused to Intervene in the Pa. redistricting case. That means these districts are holding up, and D…",0.34,0.134,0.784,0.082,86
+The New York Times,Mon Mar 19 22:02:07 +0000 2018,Photographers find new ways to frame the natural world https://t.co/dSKQ3jE90n https://t.co/2oMSS8Vyi9,0.3612,0.2,0.8,0.0,87
+The New York Times,Mon Mar 19 21:47:01 +0000 2018,"RT @julieturkewitz: Tweeting some of the reaction to our story today: ""I have long thought the absence of Native Americans from any form of…",0.0,0.0,1.0,0.0,88
+The New York Times,Mon Mar 19 21:32:07 +0000 2018,"Al Pacino and Michelle Pfeiffer will reunite for a 35th anniversary screening of ""Scarface"" at the Tribeca Film Fes… https://t.co/CHjotO0oT8",0.0,0.0,1.0,0.0,89
+The New York Times,Mon Mar 19 21:20:10 +0000 2018,"“Send some girls around to the candidate’s house.”
+
+As part of a monthslong investigation into Cambridge Analytica,… https://t.co/YP7xSJ59Gx",0.0,0.0,1.0,0.0,90
+The New York Times,Mon Mar 19 21:10:05 +0000 2018,RT @readercenter: A @nytimes article published today on race and the income gap led to a big discussion among our readers. Submit a questio…,0.0,0.0,1.0,0.0,91
+The New York Times,Mon Mar 19 21:00:21 +0000 2018,"Catharine MacKinnon: ""People have asked me for 40 years how not to get sued for sexual harassment. Well, a good fir… https://t.co/aiuh7NXSzK",0.128,0.189,0.679,0.132,92
+The New York Times,Mon Mar 19 20:50:06 +0000 2018,"Justin Verlander brought value to the Astros last season, when he joined in a trade and helped them win the World S… https://t.co/8yl93W3HoA",0.7351,0.237,0.763,0.0,93
+The New York Times,Mon Mar 19 20:40:10 +0000 2018,“Everyone in Austin is in the process of trying to figure out exactly how nervous to be. Are these bombings targete… https://t.co/5Pg0Ep4PRR,-0.2732,0.0,0.909,0.091,94
+The New York Times,Mon Mar 19 20:33:00 +0000 2018,Read our report on how servers and bartenders weigh harassing behavior from customers against the tips they need to… https://t.co/N9dFagqWIa,-0.5423,0.0,0.844,0.156,95
+The New York Times,Mon Mar 19 20:30:18 +0000 2018,"Our report on the sexual harassment endured by restaurant servers drew 1,200 responses from readers: on money, powe… https://t.co/VnCiSwIYgy",-0.5423,0.0,0.837,0.163,96
+The New York Times,Mon Mar 19 20:20:07 +0000 2018,RT @nytimestravel: Do you see Wakanda as a series of magical neighborhoods floating in midair? Would the magnetic levitation subway in trav…,0.0,0.0,1.0,0.0,97
+The New York Times,Mon Mar 19 20:17:56 +0000 2018,"“Send some girls around to the candidate’s house”: As part of a monthslong investigation into Cambridge Analytica,… https://t.co/FMEWKpKCUa",0.0,0.0,1.0,0.0,98
+The New York Times,Mon Mar 19 20:14:53 +0000 2018,"However, the firm’s employees, who often overlap, had contact in 2014 and 2015 with executives from Lukoil, the Rus… https://t.co/8Q90TwYuIH",0.0,0.0,1.0,0.0,99
+The New York Times,Mon Mar 19 20:13:08 +0000 2018,"Alexander Nix, a director of SCL Group, a British political and defense contractor, and chief executive of its Amer… https://t.co/CZMF8buD3n",0.128,0.081,0.919,0.0,100
+Fox News,Mon Mar 19 23:12:12 +0000 2018,".@GregAbbott_TX on the hunt for Austin, Texas bomber: “Law enforcement at all levels are on top of this in a way bi… https://t.co/574OxaEavh",0.2023,0.079,0.921,0.0,1
+Fox News,Mon Mar 19 23:04:04 +0000 2018,.@FIU students return to campus for first time since bridge collapse https://t.co/ekhlBFQmgt,-0.4939,0.0,0.775,0.225,2
+Fox News,Mon Mar 19 23:01:13 +0000 2018,"RT @MikeEmanuelFox: White House, Democrats trade offers to address 'dreamers'-from #SpecialReport tonight:
+https://t.co/u4U05Ss3GF",0.0,0.0,1.0,0.0,3
+Fox News,Mon Mar 19 23:00:25 +0000 2018,".@guypbenson: ""When you look at the McCabe firing, I think you can make a very strong case, based on the facts, tha… https://t.co/R1uC8pypqt",0.2944,0.144,0.76,0.096,4
+Fox News,Mon Mar 19 22:55:48 +0000 2018,".@MaraLiasson: ""I think what's happening is [@POTUS] is intent on discrediting the Mueller investigation so that wh… https://t.co/doAafqRCnI",0.0,0.0,1.0,0.0,5
+Fox News,Mon Mar 19 22:49:52 +0000 2018,".@MZHemingway on McCabe firing: ""It is never a good thing when your #2 at the @FBI is fired for bad behavior.""… https://t.co/qtMQXB3a78",-0.898,0.0,0.588,0.412,6
+Fox News,Mon Mar 19 22:46:15 +0000 2018,"""The U.S. government just hit a record, but not one with bragging rights. We are in debt. A lot of debt.""… https://t.co/QEphN4nJ0X",-0.5023,0.0,0.854,0.146,7
+Fox News,Mon Mar 19 22:35:33 +0000 2018,Mississippi enacts law banning most abortions after 15 weeks https://t.co/2l5tHo17no,0.0,0.0,1.0,0.0,8
+Fox News,Mon Mar 19 22:27:25 +0000 2018,"During a speech on the opioid crisis in America on Monday, @POTUS called for ending sanctuary cities. https://t.co/Yxf2RHavha",-0.6249,0.0,0.796,0.204,9
+Fox News,Mon Mar 19 22:24:36 +0000 2018,An 18-year-old gorilla at @phillyzoo hates to get his hands dirty. That’s why he sometimes walks upright like a hum… https://t.co/JjWYnnvUJn,-0.5106,0.099,0.672,0.229,10
+Fox News,Mon Mar 19 22:15:41 +0000 2018,".@brithume: ""There's been a lot of criticism that the firing was rushed, but McCabe was on the verge of retirement.… https://t.co/1X6PKgKMpi",-0.3919,0.0,0.831,0.169,11
+Fox News,Mon Mar 19 22:08:45 +0000 2018,.@lizpeek: @HillaryClinton's latest excuse: Stepford wives cost me the election https://t.co/Dv7VWg2ibU,0.0772,0.115,0.885,0.0,12
+Fox News,Mon Mar 19 22:00:08 +0000 2018,Are some states headed for Splitsville? Movement grows to allow sections of states to break away https://t.co/H8UNrAD2wW,0.2263,0.106,0.894,0.0,13
+Fox News,Mon Mar 19 21:54:09 +0000 2018,.@facebook exploring forensic audits to investigate Cambridge Analytica claims https://t.co/Su9gpTOSBM,0.0,0.0,1.0,0.0,14
+Fox News,Mon Mar 19 21:47:01 +0000 2018,".@JesseBWatters on @HillaryClinton's apology after comments about Trump voters: “We like authentic Hillary, even if… https://t.co/vxz1LrqfqV",0.4019,0.209,0.791,0.0,15
+Fox News,Mon Mar 19 21:44:08 +0000 2018,It was a special day at @dollysstampede​ as Sgt. Bryan Samsel surprised his wife after returning home from a year o… https://t.co/c7aTQu0toD,0.5574,0.204,0.796,0.0,16
+Fox News,Mon Mar 19 21:31:49 +0000 2018,"Self-driving Uber car kills Arizona pedestrian, police say https://t.co/nLr9zucd1I",-0.5829,0.0,0.679,0.321,17
+Fox News,Mon Mar 19 21:20:31 +0000 2018,.@kimguilfoyle on possibility of @POTUS firing Mueller: “Let them complete the investigation. I don’t see any upsid… https://t.co/Y2E6Ft4Bmu,-0.34,0.0,0.87,0.13,18
+Fox News,Mon Mar 19 21:12:12 +0000 2018,"During a speech about new efforts to fight the opioid crisis on Monday, @POTUS once again called for a border wall,… https://t.co/5NUOAb2EGz",-0.7717,0.0,0.729,0.271,19
+Fox News,Mon Mar 19 20:45:54 +0000 2018,Supreme Court keeps revised Pennsylvania congressional map in place https://t.co/eJLYkE8opo,0.5574,0.286,0.714,0.0,20
+Fox News,Mon Mar 19 23:12:12 +0000 2018,".@GregAbbott_TX on the hunt for Austin, Texas bomber: “Law enforcement at all levels are on top of this in a way bi… https://t.co/574OxaEavh",0.2023,0.079,0.921,0.0,21
+Fox News,Mon Mar 19 23:04:04 +0000 2018,.@FIU students return to campus for first time since bridge collapse https://t.co/ekhlBFQmgt,-0.4939,0.0,0.775,0.225,22
+Fox News,Mon Mar 19 23:01:13 +0000 2018,"RT @MikeEmanuelFox: White House, Democrats trade offers to address 'dreamers'-from #SpecialReport tonight:
+https://t.co/u4U05Ss3GF",0.0,0.0,1.0,0.0,23
+Fox News,Mon Mar 19 23:00:25 +0000 2018,".@guypbenson: ""When you look at the McCabe firing, I think you can make a very strong case, based on the facts, tha… https://t.co/R1uC8pypqt",0.2944,0.144,0.76,0.096,24
+Fox News,Mon Mar 19 22:55:48 +0000 2018,".@MaraLiasson: ""I think what's happening is [@POTUS] is intent on discrediting the Mueller investigation so that wh… https://t.co/doAafqRCnI",0.0,0.0,1.0,0.0,25
+Fox News,Mon Mar 19 22:49:52 +0000 2018,".@MZHemingway on McCabe firing: ""It is never a good thing when your #2 at the @FBI is fired for bad behavior.""… https://t.co/qtMQXB3a78",-0.898,0.0,0.588,0.412,26
+Fox News,Mon Mar 19 22:46:15 +0000 2018,"""The U.S. government just hit a record, but not one with bragging rights. We are in debt. A lot of debt.""… https://t.co/QEphN4nJ0X",-0.5023,0.0,0.854,0.146,27
+Fox News,Mon Mar 19 22:35:33 +0000 2018,Mississippi enacts law banning most abortions after 15 weeks https://t.co/2l5tHo17no,0.0,0.0,1.0,0.0,28
+Fox News,Mon Mar 19 22:27:25 +0000 2018,"During a speech on the opioid crisis in America on Monday, @POTUS called for ending sanctuary cities. https://t.co/Yxf2RHavha",-0.6249,0.0,0.796,0.204,29
+Fox News,Mon Mar 19 22:24:36 +0000 2018,An 18-year-old gorilla at @phillyzoo hates to get his hands dirty. That’s why he sometimes walks upright like a hum… https://t.co/JjWYnnvUJn,-0.5106,0.099,0.672,0.229,30
+Fox News,Mon Mar 19 22:15:41 +0000 2018,".@brithume: ""There's been a lot of criticism that the firing was rushed, but McCabe was on the verge of retirement.… https://t.co/1X6PKgKMpi",-0.3919,0.0,0.831,0.169,31
+Fox News,Mon Mar 19 22:08:45 +0000 2018,.@lizpeek: @HillaryClinton's latest excuse: Stepford wives cost me the election https://t.co/Dv7VWg2ibU,0.0772,0.115,0.885,0.0,32
+Fox News,Mon Mar 19 22:00:08 +0000 2018,Are some states headed for Splitsville? Movement grows to allow sections of states to break away https://t.co/H8UNrAD2wW,0.2263,0.106,0.894,0.0,33
+Fox News,Mon Mar 19 21:54:09 +0000 2018,.@facebook exploring forensic audits to investigate Cambridge Analytica claims https://t.co/Su9gpTOSBM,0.0,0.0,1.0,0.0,34
+Fox News,Mon Mar 19 21:47:01 +0000 2018,".@JesseBWatters on @HillaryClinton's apology after comments about Trump voters: “We like authentic Hillary, even if… https://t.co/vxz1LrqfqV",0.4019,0.209,0.791,0.0,35
+Fox News,Mon Mar 19 21:44:08 +0000 2018,It was a special day at @dollysstampede​ as Sgt. Bryan Samsel surprised his wife after returning home from a year o… https://t.co/c7aTQu0toD,0.5574,0.204,0.796,0.0,36
+Fox News,Mon Mar 19 21:31:49 +0000 2018,"Self-driving Uber car kills Arizona pedestrian, police say https://t.co/nLr9zucd1I",-0.5829,0.0,0.679,0.321,37
+Fox News,Mon Mar 19 21:20:31 +0000 2018,.@kimguilfoyle on possibility of @POTUS firing Mueller: “Let them complete the investigation. I don’t see any upsid… https://t.co/Y2E6Ft4Bmu,-0.34,0.0,0.87,0.13,38
+Fox News,Mon Mar 19 21:12:12 +0000 2018,"During a speech about new efforts to fight the opioid crisis on Monday, @POTUS once again called for a border wall,… https://t.co/5NUOAb2EGz",-0.7717,0.0,0.729,0.271,39
+Fox News,Mon Mar 19 20:45:54 +0000 2018,Supreme Court keeps revised Pennsylvania congressional map in place https://t.co/eJLYkE8opo,0.5574,0.286,0.714,0.0,40
+Fox News,Mon Mar 19 23:12:12 +0000 2018,".@GregAbbott_TX on the hunt for Austin, Texas bomber: “Law enforcement at all levels are on top of this in a way bi… https://t.co/574OxaEavh",0.2023,0.079,0.921,0.0,41
+Fox News,Mon Mar 19 23:04:04 +0000 2018,.@FIU students return to campus for first time since bridge collapse https://t.co/ekhlBFQmgt,-0.4939,0.0,0.775,0.225,42
+Fox News,Mon Mar 19 23:01:13 +0000 2018,"RT @MikeEmanuelFox: White House, Democrats trade offers to address 'dreamers'-from #SpecialReport tonight:
+https://t.co/u4U05Ss3GF",0.0,0.0,1.0,0.0,43
+Fox News,Mon Mar 19 23:00:25 +0000 2018,".@guypbenson: ""When you look at the McCabe firing, I think you can make a very strong case, based on the facts, tha… https://t.co/R1uC8pypqt",0.2944,0.144,0.76,0.096,44
+Fox News,Mon Mar 19 22:55:48 +0000 2018,".@MaraLiasson: ""I think what's happening is [@POTUS] is intent on discrediting the Mueller investigation so that wh… https://t.co/doAafqRCnI",0.0,0.0,1.0,0.0,45
+Fox News,Mon Mar 19 22:49:52 +0000 2018,".@MZHemingway on McCabe firing: ""It is never a good thing when your #2 at the @FBI is fired for bad behavior.""… https://t.co/qtMQXB3a78",-0.898,0.0,0.588,0.412,46
+Fox News,Mon Mar 19 22:46:15 +0000 2018,"""The U.S. government just hit a record, but not one with bragging rights. We are in debt. A lot of debt.""… https://t.co/QEphN4nJ0X",-0.5023,0.0,0.854,0.146,47
+Fox News,Mon Mar 19 22:35:33 +0000 2018,Mississippi enacts law banning most abortions after 15 weeks https://t.co/2l5tHo17no,0.0,0.0,1.0,0.0,48
+Fox News,Mon Mar 19 22:27:25 +0000 2018,"During a speech on the opioid crisis in America on Monday, @POTUS called for ending sanctuary cities. https://t.co/Yxf2RHavha",-0.6249,0.0,0.796,0.204,49
+Fox News,Mon Mar 19 22:24:36 +0000 2018,An 18-year-old gorilla at @phillyzoo hates to get his hands dirty. That’s why he sometimes walks upright like a hum… https://t.co/JjWYnnvUJn,-0.5106,0.099,0.672,0.229,50
+Fox News,Mon Mar 19 22:15:41 +0000 2018,".@brithume: ""There's been a lot of criticism that the firing was rushed, but McCabe was on the verge of retirement.… https://t.co/1X6PKgKMpi",-0.3919,0.0,0.831,0.169,51
+Fox News,Mon Mar 19 22:08:45 +0000 2018,.@lizpeek: @HillaryClinton's latest excuse: Stepford wives cost me the election https://t.co/Dv7VWg2ibU,0.0772,0.115,0.885,0.0,52
+Fox News,Mon Mar 19 22:00:08 +0000 2018,Are some states headed for Splitsville? Movement grows to allow sections of states to break away https://t.co/H8UNrAD2wW,0.2263,0.106,0.894,0.0,53
+Fox News,Mon Mar 19 21:54:09 +0000 2018,.@facebook exploring forensic audits to investigate Cambridge Analytica claims https://t.co/Su9gpTOSBM,0.0,0.0,1.0,0.0,54
+Fox News,Mon Mar 19 21:47:01 +0000 2018,".@JesseBWatters on @HillaryClinton's apology after comments about Trump voters: “We like authentic Hillary, even if… https://t.co/vxz1LrqfqV",0.4019,0.209,0.791,0.0,55
+Fox News,Mon Mar 19 21:44:08 +0000 2018,It was a special day at @dollysstampede​ as Sgt. Bryan Samsel surprised his wife after returning home from a year o… https://t.co/c7aTQu0toD,0.5574,0.204,0.796,0.0,56
+Fox News,Mon Mar 19 21:31:49 +0000 2018,"Self-driving Uber car kills Arizona pedestrian, police say https://t.co/nLr9zucd1I",-0.5829,0.0,0.679,0.321,57
+Fox News,Mon Mar 19 21:20:31 +0000 2018,.@kimguilfoyle on possibility of @POTUS firing Mueller: “Let them complete the investigation. I don’t see any upsid… https://t.co/Y2E6Ft4Bmu,-0.34,0.0,0.87,0.13,58
+Fox News,Mon Mar 19 21:12:12 +0000 2018,"During a speech about new efforts to fight the opioid crisis on Monday, @POTUS once again called for a border wall,… https://t.co/5NUOAb2EGz",-0.7717,0.0,0.729,0.271,59
+Fox News,Mon Mar 19 20:45:54 +0000 2018,Supreme Court keeps revised Pennsylvania congressional map in place https://t.co/eJLYkE8opo,0.5574,0.286,0.714,0.0,60
+Fox News,Mon Mar 19 23:12:12 +0000 2018,".@GregAbbott_TX on the hunt for Austin, Texas bomber: “Law enforcement at all levels are on top of this in a way bi… https://t.co/574OxaEavh",0.2023,0.079,0.921,0.0,61
+Fox News,Mon Mar 19 23:04:04 +0000 2018,.@FIU students return to campus for first time since bridge collapse https://t.co/ekhlBFQmgt,-0.4939,0.0,0.775,0.225,62
+Fox News,Mon Mar 19 23:01:13 +0000 2018,"RT @MikeEmanuelFox: White House, Democrats trade offers to address 'dreamers'-from #SpecialReport tonight:
+https://t.co/u4U05Ss3GF",0.0,0.0,1.0,0.0,63
+Fox News,Mon Mar 19 23:00:25 +0000 2018,".@guypbenson: ""When you look at the McCabe firing, I think you can make a very strong case, based on the facts, tha… https://t.co/R1uC8pypqt",0.2944,0.144,0.76,0.096,64
+Fox News,Mon Mar 19 22:55:48 +0000 2018,".@MaraLiasson: ""I think what's happening is [@POTUS] is intent on discrediting the Mueller investigation so that wh… https://t.co/doAafqRCnI",0.0,0.0,1.0,0.0,65
+Fox News,Mon Mar 19 22:49:52 +0000 2018,".@MZHemingway on McCabe firing: ""It is never a good thing when your #2 at the @FBI is fired for bad behavior.""… https://t.co/qtMQXB3a78",-0.898,0.0,0.588,0.412,66
+Fox News,Mon Mar 19 22:46:15 +0000 2018,"""The U.S. government just hit a record, but not one with bragging rights. We are in debt. A lot of debt.""… https://t.co/QEphN4nJ0X",-0.5023,0.0,0.854,0.146,67
+Fox News,Mon Mar 19 22:35:33 +0000 2018,Mississippi enacts law banning most abortions after 15 weeks https://t.co/2l5tHo17no,0.0,0.0,1.0,0.0,68
+Fox News,Mon Mar 19 22:27:25 +0000 2018,"During a speech on the opioid crisis in America on Monday, @POTUS called for ending sanctuary cities. https://t.co/Yxf2RHavha",-0.6249,0.0,0.796,0.204,69
+Fox News,Mon Mar 19 22:24:36 +0000 2018,An 18-year-old gorilla at @phillyzoo hates to get his hands dirty. That’s why he sometimes walks upright like a hum… https://t.co/JjWYnnvUJn,-0.5106,0.099,0.672,0.229,70
+Fox News,Mon Mar 19 22:15:41 +0000 2018,".@brithume: ""There's been a lot of criticism that the firing was rushed, but McCabe was on the verge of retirement.… https://t.co/1X6PKgKMpi",-0.3919,0.0,0.831,0.169,71
+Fox News,Mon Mar 19 22:08:45 +0000 2018,.@lizpeek: @HillaryClinton's latest excuse: Stepford wives cost me the election https://t.co/Dv7VWg2ibU,0.0772,0.115,0.885,0.0,72
+Fox News,Mon Mar 19 22:00:08 +0000 2018,Are some states headed for Splitsville? Movement grows to allow sections of states to break away https://t.co/H8UNrAD2wW,0.2263,0.106,0.894,0.0,73
+Fox News,Mon Mar 19 21:54:09 +0000 2018,.@facebook exploring forensic audits to investigate Cambridge Analytica claims https://t.co/Su9gpTOSBM,0.0,0.0,1.0,0.0,74
+Fox News,Mon Mar 19 21:47:01 +0000 2018,".@JesseBWatters on @HillaryClinton's apology after comments about Trump voters: “We like authentic Hillary, even if… https://t.co/vxz1LrqfqV",0.4019,0.209,0.791,0.0,75
+Fox News,Mon Mar 19 21:44:08 +0000 2018,It was a special day at @dollysstampede​ as Sgt. Bryan Samsel surprised his wife after returning home from a year o… https://t.co/c7aTQu0toD,0.5574,0.204,0.796,0.0,76
+Fox News,Mon Mar 19 21:31:49 +0000 2018,"Self-driving Uber car kills Arizona pedestrian, police say https://t.co/nLr9zucd1I",-0.5829,0.0,0.679,0.321,77
+Fox News,Mon Mar 19 21:20:31 +0000 2018,.@kimguilfoyle on possibility of @POTUS firing Mueller: “Let them complete the investigation. I don’t see any upsid… https://t.co/Y2E6Ft4Bmu,-0.34,0.0,0.87,0.13,78
+Fox News,Mon Mar 19 21:12:12 +0000 2018,"During a speech about new efforts to fight the opioid crisis on Monday, @POTUS once again called for a border wall,… https://t.co/5NUOAb2EGz",-0.7717,0.0,0.729,0.271,79
+Fox News,Mon Mar 19 20:45:54 +0000 2018,Supreme Court keeps revised Pennsylvania congressional map in place https://t.co/eJLYkE8opo,0.5574,0.286,0.714,0.0,80
+Fox News,Mon Mar 19 23:12:12 +0000 2018,".@GregAbbott_TX on the hunt for Austin, Texas bomber: “Law enforcement at all levels are on top of this in a way bi… https://t.co/574OxaEavh",0.2023,0.079,0.921,0.0,81
+Fox News,Mon Mar 19 23:04:04 +0000 2018,.@FIU students return to campus for first time since bridge collapse https://t.co/ekhlBFQmgt,-0.4939,0.0,0.775,0.225,82
+Fox News,Mon Mar 19 23:01:13 +0000 2018,"RT @MikeEmanuelFox: White House, Democrats trade offers to address 'dreamers'-from #SpecialReport tonight:
+https://t.co/u4U05Ss3GF",0.0,0.0,1.0,0.0,83
+Fox News,Mon Mar 19 23:00:25 +0000 2018,".@guypbenson: ""When you look at the McCabe firing, I think you can make a very strong case, based on the facts, tha… https://t.co/R1uC8pypqt",0.2944,0.144,0.76,0.096,84
+Fox News,Mon Mar 19 22:55:48 +0000 2018,".@MaraLiasson: ""I think what's happening is [@POTUS] is intent on discrediting the Mueller investigation so that wh… https://t.co/doAafqRCnI",0.0,0.0,1.0,0.0,85
+Fox News,Mon Mar 19 22:49:52 +0000 2018,".@MZHemingway on McCabe firing: ""It is never a good thing when your #2 at the @FBI is fired for bad behavior.""… https://t.co/qtMQXB3a78",-0.898,0.0,0.588,0.412,86
+Fox News,Mon Mar 19 22:46:15 +0000 2018,"""The U.S. government just hit a record, but not one with bragging rights. We are in debt. A lot of debt.""… https://t.co/QEphN4nJ0X",-0.5023,0.0,0.854,0.146,87
+Fox News,Mon Mar 19 22:35:33 +0000 2018,Mississippi enacts law banning most abortions after 15 weeks https://t.co/2l5tHo17no,0.0,0.0,1.0,0.0,88
+Fox News,Mon Mar 19 22:27:25 +0000 2018,"During a speech on the opioid crisis in America on Monday, @POTUS called for ending sanctuary cities. https://t.co/Yxf2RHavha",-0.6249,0.0,0.796,0.204,89
+Fox News,Mon Mar 19 22:24:36 +0000 2018,An 18-year-old gorilla at @phillyzoo hates to get his hands dirty. That’s why he sometimes walks upright like a hum… https://t.co/JjWYnnvUJn,-0.5106,0.099,0.672,0.229,90
+Fox News,Mon Mar 19 22:15:41 +0000 2018,".@brithume: ""There's been a lot of criticism that the firing was rushed, but McCabe was on the verge of retirement.… https://t.co/1X6PKgKMpi",-0.3919,0.0,0.831,0.169,91
+Fox News,Mon Mar 19 22:08:45 +0000 2018,.@lizpeek: @HillaryClinton's latest excuse: Stepford wives cost me the election https://t.co/Dv7VWg2ibU,0.0772,0.115,0.885,0.0,92
+Fox News,Mon Mar 19 22:00:08 +0000 2018,Are some states headed for Splitsville? Movement grows to allow sections of states to break away https://t.co/H8UNrAD2wW,0.2263,0.106,0.894,0.0,93
+Fox News,Mon Mar 19 21:54:09 +0000 2018,.@facebook exploring forensic audits to investigate Cambridge Analytica claims https://t.co/Su9gpTOSBM,0.0,0.0,1.0,0.0,94
+Fox News,Mon Mar 19 21:47:01 +0000 2018,".@JesseBWatters on @HillaryClinton's apology after comments about Trump voters: “We like authentic Hillary, even if… https://t.co/vxz1LrqfqV",0.4019,0.209,0.791,0.0,95
+Fox News,Mon Mar 19 21:44:08 +0000 2018,It was a special day at @dollysstampede​ as Sgt. Bryan Samsel surprised his wife after returning home from a year o… https://t.co/c7aTQu0toD,0.5574,0.204,0.796,0.0,96
+Fox News,Mon Mar 19 21:31:49 +0000 2018,"Self-driving Uber car kills Arizona pedestrian, police say https://t.co/nLr9zucd1I",-0.5829,0.0,0.679,0.321,97
+Fox News,Mon Mar 19 21:20:31 +0000 2018,.@kimguilfoyle on possibility of @POTUS firing Mueller: “Let them complete the investigation. I don’t see any upsid… https://t.co/Y2E6Ft4Bmu,-0.34,0.0,0.87,0.13,98
+Fox News,Mon Mar 19 21:12:12 +0000 2018,"During a speech about new efforts to fight the opioid crisis on Monday, @POTUS once again called for a border wall,… https://t.co/5NUOAb2EGz",-0.7717,0.0,0.729,0.271,99
+Fox News,Mon Mar 19 20:45:54 +0000 2018,Supreme Court keeps revised Pennsylvania congressional map in place https://t.co/eJLYkE8opo,0.5574,0.286,0.714,0.0,100
+BBC News (UK),Mon Mar 19 22:38:15 +0000 2018,"Tuesday's Daily Mail
+""A cure for disease that robs thousands of sight""
+
+#tomorrowspaperstoday
+#bbcpapers
+(via… https://t.co/CnQxZoKc5o",-0.4588,0.0,0.833,0.167,1
+BBC News (UK),Mon Mar 19 22:35:49 +0000 2018,"Tuesday's Daily Mirror: 
+""Ant back in rehab""
+
+#tomorrowspaperstoday
+#bbcpapers
+(via @BBCHelenaLee) https://t.co/K6Odw6ZYOF",0.0,0.0,1.0,0.0,2
+BBC News (UK),Mon Mar 19 22:34:03 +0000 2018,"Tuesday's Daily Telegraph: 
+""Fishermen 'betrayed' by May's Brexit deal""
+
+#tomorrowspaperstoday
+#bbcpapers
+(via… https://t.co/tbAN05Sgy9",0.0,0.0,1.0,0.0,3
+BBC News (UK),Mon Mar 19 22:26:15 +0000 2018,"Tuesday's Guardian
+""Data firm's executives caught boasting of dirty tricks to swing elections""… https://t.co/thEEQKq8xk",-0.5267,0.0,0.732,0.268,4
+BBC News (UK),Mon Mar 19 22:22:03 +0000 2018,RT @BBCkatyaadler: Green light for transition deal but - to temper excitement - EU #Brexit mantra is: Nothing is agreed until Everything is…,0.5023,0.243,0.628,0.129,5
+BBC News (UK),Mon Mar 19 22:15:39 +0000 2018,"Tuesday's Sun
+""Ant off TV.. and back in rehab ""
+
+#tomorrowspaperstoday
+#bbcpapers
+(via @BBCHelenaLee) https://t.co/Ka460ncTzu",0.0,0.0,1.0,0.0,6
+BBC News (UK),Mon Mar 19 22:04:28 +0000 2018,"""I knew she might be killed.""
+
+Father speaks of daughter's death fighting with all-female Kurdish armed unit in Syr… https://t.co/TSQLMPxgZg",-0.7506,0.0,0.738,0.262,7
+BBC News (UK),Mon Mar 19 22:00:43 +0000 2018,Commons bullying: Outside figure to head inquiry https://t.co/j6XPOuWVun,-0.5994,0.0,0.642,0.358,8
+BBC News (UK),Mon Mar 19 21:52:44 +0000 2018,"Tuesday's Metro
+""Brexit breakthrough""
+
+#tomorrowspaperstoday
+#bbcpapers
+(via @BBCHelenaLee) https://t.co/SGyZN67rFA",0.0,0.0,1.0,0.0,9
+BBC News (UK),Mon Mar 19 21:48:46 +0000 2018,"Tuesday's i
+""Britain takes a big step towards Brexit deal""
+
+#tomorrowspaperstoday
+#bbcpapers
+(via @BBCHelenaLee) https://t.co/uQlIL6PUSy",0.0,0.0,1.0,0.0,10
+BBC News (UK),Mon Mar 19 21:45:12 +0000 2018,RT @BBCScotlandNews: Some amazing footage of the Northern Lights and a mysterious aurora phenomenon dubbed Steve spotted by stargazers in S…,0.5859,0.167,0.833,0.0,11
+BBC News (UK),Mon Mar 19 21:44:38 +0000 2018,"Tuesday's Daily Express 
+""Miracle cure for sight loss""
+
+#tomorrowspaperstoday
+#bbcpapers
+(via @BBCHelenaLee) https://t.co/QoXhdLgg7d",0.3612,0.222,0.643,0.135,12
+BBC News (UK),Mon Mar 19 21:07:58 +0000 2018,"RT @BBCOne: They've finally quacked the case.
+
+https://t.co/eq4dLcauhe",0.0,0.0,1.0,0.0,13
+BBC News (UK),Mon Mar 19 21:06:52 +0000 2018,Cambridge Analytica: Warrant sought to inspect company https://t.co/WB0gogrQSd,0.0,0.0,1.0,0.0,14
+BBC News (UK),Mon Mar 19 20:54:22 +0000 2018,Mariam Moustafa death in Nottingham 'not hate-related' https://t.co/pPkXcCED0K,-0.5994,0.0,0.642,0.358,15
+BBC News (UK),Mon Mar 19 20:13:55 +0000 2018,Child rescued from car in Cardigan river https://t.co/hAUQ4bxN8C,0.4215,0.286,0.714,0.0,16
+BBC News (UK),Mon Mar 19 19:49:36 +0000 2018,St Leonards shooting: Man charged with double murder https://t.co/TgTYbx5vfv,-0.7579,0.0,0.519,0.481,17
+BBC News (UK),Mon Mar 19 18:15:53 +0000 2018,Channel 4 has gender pay gap of 24.2% https://t.co/sWB4acJtew,-0.1027,0.0,0.833,0.167,18
+BBC News (UK),Mon Mar 19 18:03:28 +0000 2018,Parsons Green: Bomber's foster mother felt 'betrayed' https://t.co/VXpAteAdH6,0.0,0.0,1.0,0.0,19
+BBC News (UK),Mon Mar 19 18:03:08 +0000 2018,RT @bbcweather: Temperatures will be on the rise over the next few days... Jo https://t.co/VQtCCxR568,0.0,0.0,1.0,0.0,20
+BBC News (UK),Mon Mar 19 22:38:15 +0000 2018,"Tuesday's Daily Mail
+""A cure for disease that robs thousands of sight""
+
+#tomorrowspaperstoday
+#bbcpapers
+(via… https://t.co/CnQxZoKc5o",-0.4588,0.0,0.833,0.167,21
+BBC News (UK),Mon Mar 19 22:35:49 +0000 2018,"Tuesday's Daily Mirror: 
+""Ant back in rehab""
+
+#tomorrowspaperstoday
+#bbcpapers
+(via @BBCHelenaLee) https://t.co/K6Odw6ZYOF",0.0,0.0,1.0,0.0,22
+BBC News (UK),Mon Mar 19 22:34:03 +0000 2018,"Tuesday's Daily Telegraph: 
+""Fishermen 'betrayed' by May's Brexit deal""
+
+#tomorrowspaperstoday
+#bbcpapers
+(via… https://t.co/tbAN05Sgy9",0.0,0.0,1.0,0.0,23
+BBC News (UK),Mon Mar 19 22:26:15 +0000 2018,"Tuesday's Guardian
+""Data firm's executives caught boasting of dirty tricks to swing elections""… https://t.co/thEEQKq8xk",-0.5267,0.0,0.732,0.268,24
+BBC News (UK),Mon Mar 19 22:22:03 +0000 2018,RT @BBCkatyaadler: Green light for transition deal but - to temper excitement - EU #Brexit mantra is: Nothing is agreed until Everything is…,0.5023,0.243,0.628,0.129,25
+BBC News (UK),Mon Mar 19 22:15:39 +0000 2018,"Tuesday's Sun
+""Ant off TV.. and back in rehab ""
+
+#tomorrowspaperstoday
+#bbcpapers
+(via @BBCHelenaLee) https://t.co/Ka460ncTzu",0.0,0.0,1.0,0.0,26
+BBC News (UK),Mon Mar 19 22:04:28 +0000 2018,"""I knew she might be killed.""
+
+Father speaks of daughter's death fighting with all-female Kurdish armed unit in Syr… https://t.co/TSQLMPxgZg",-0.7506,0.0,0.738,0.262,27
+BBC News (UK),Mon Mar 19 22:00:43 +0000 2018,Commons bullying: Outside figure to head inquiry https://t.co/j6XPOuWVun,-0.5994,0.0,0.642,0.358,28
+BBC News (UK),Mon Mar 19 21:52:44 +0000 2018,"Tuesday's Metro
+""Brexit breakthrough""
+
+#tomorrowspaperstoday
+#bbcpapers
+(via @BBCHelenaLee) https://t.co/SGyZN67rFA",0.0,0.0,1.0,0.0,29
+BBC News (UK),Mon Mar 19 21:48:46 +0000 2018,"Tuesday's i
+""Britain takes a big step towards Brexit deal""
+
+#tomorrowspaperstoday
+#bbcpapers
+(via @BBCHelenaLee) https://t.co/uQlIL6PUSy",0.0,0.0,1.0,0.0,30
+BBC News (UK),Mon Mar 19 21:45:12 +0000 2018,RT @BBCScotlandNews: Some amazing footage of the Northern Lights and a mysterious aurora phenomenon dubbed Steve spotted by stargazers in S…,0.5859,0.167,0.833,0.0,31
+BBC News (UK),Mon Mar 19 21:44:38 +0000 2018,"Tuesday's Daily Express 
+""Miracle cure for sight loss""
+
+#tomorrowspaperstoday
+#bbcpapers
+(via @BBCHelenaLee) https://t.co/QoXhdLgg7d",0.3612,0.222,0.643,0.135,32
+BBC News (UK),Mon Mar 19 21:07:58 +0000 2018,"RT @BBCOne: They've finally quacked the case.
+
+https://t.co/eq4dLcauhe",0.0,0.0,1.0,0.0,33
+BBC News (UK),Mon Mar 19 21:06:52 +0000 2018,Cambridge Analytica: Warrant sought to inspect company https://t.co/WB0gogrQSd,0.0,0.0,1.0,0.0,34
+BBC News (UK),Mon Mar 19 20:54:22 +0000 2018,Mariam Moustafa death in Nottingham 'not hate-related' https://t.co/pPkXcCED0K,-0.5994,0.0,0.642,0.358,35
+BBC News (UK),Mon Mar 19 20:13:55 +0000 2018,Child rescued from car in Cardigan river https://t.co/hAUQ4bxN8C,0.4215,0.286,0.714,0.0,36
+BBC News (UK),Mon Mar 19 19:49:36 +0000 2018,St Leonards shooting: Man charged with double murder https://t.co/TgTYbx5vfv,-0.7579,0.0,0.519,0.481,37
+BBC News (UK),Mon Mar 19 18:15:53 +0000 2018,Channel 4 has gender pay gap of 24.2% https://t.co/sWB4acJtew,-0.1027,0.0,0.833,0.167,38
+BBC News (UK),Mon Mar 19 18:03:28 +0000 2018,Parsons Green: Bomber's foster mother felt 'betrayed' https://t.co/VXpAteAdH6,0.0,0.0,1.0,0.0,39
+BBC News (UK),Mon Mar 19 18:03:08 +0000 2018,RT @bbcweather: Temperatures will be on the rise over the next few days... Jo https://t.co/VQtCCxR568,0.0,0.0,1.0,0.0,40
+BBC News (UK),Mon Mar 19 22:38:15 +0000 2018,"Tuesday's Daily Mail
+""A cure for disease that robs thousands of sight""
+
+#tomorrowspaperstoday
+#bbcpapers
+(via… https://t.co/CnQxZoKc5o",-0.4588,0.0,0.833,0.167,41
+BBC News (UK),Mon Mar 19 22:35:49 +0000 2018,"Tuesday's Daily Mirror: 
+""Ant back in rehab""
+
+#tomorrowspaperstoday
+#bbcpapers
+(via @BBCHelenaLee) https://t.co/K6Odw6ZYOF",0.0,0.0,1.0,0.0,42
+BBC News (UK),Mon Mar 19 22:34:03 +0000 2018,"Tuesday's Daily Telegraph: 
+""Fishermen 'betrayed' by May's Brexit deal""
+
+#tomorrowspaperstoday
+#bbcpapers
+(via… https://t.co/tbAN05Sgy9",0.0,0.0,1.0,0.0,43
+BBC News (UK),Mon Mar 19 22:26:15 +0000 2018,"Tuesday's Guardian
+""Data firm's executives caught boasting of dirty tricks to swing elections""… https://t.co/thEEQKq8xk",-0.5267,0.0,0.732,0.268,44
+BBC News (UK),Mon Mar 19 22:22:03 +0000 2018,RT @BBCkatyaadler: Green light for transition deal but - to temper excitement - EU #Brexit mantra is: Nothing is agreed until Everything is…,0.5023,0.243,0.628,0.129,45
+BBC News (UK),Mon Mar 19 22:15:39 +0000 2018,"Tuesday's Sun
+""Ant off TV.. and back in rehab ""
+
+#tomorrowspaperstoday
+#bbcpapers
+(via @BBCHelenaLee) https://t.co/Ka460ncTzu",0.0,0.0,1.0,0.0,46
+BBC News (UK),Mon Mar 19 22:04:28 +0000 2018,"""I knew she might be killed.""
+
+Father speaks of daughter's death fighting with all-female Kurdish armed unit in Syr… https://t.co/TSQLMPxgZg",-0.7506,0.0,0.738,0.262,47
+BBC News (UK),Mon Mar 19 22:00:43 +0000 2018,Commons bullying: Outside figure to head inquiry https://t.co/j6XPOuWVun,-0.5994,0.0,0.642,0.358,48
+BBC News (UK),Mon Mar 19 21:52:44 +0000 2018,"Tuesday's Metro
+""Brexit breakthrough""
+
+#tomorrowspaperstoday
+#bbcpapers
+(via @BBCHelenaLee) https://t.co/SGyZN67rFA",0.0,0.0,1.0,0.0,49
+BBC News (UK),Mon Mar 19 21:48:46 +0000 2018,"Tuesday's i
+""Britain takes a big step towards Brexit deal""
+
+#tomorrowspaperstoday
+#bbcpapers
+(via @BBCHelenaLee) https://t.co/uQlIL6PUSy",0.0,0.0,1.0,0.0,50
+BBC News (UK),Mon Mar 19 21:45:12 +0000 2018,RT @BBCScotlandNews: Some amazing footage of the Northern Lights and a mysterious aurora phenomenon dubbed Steve spotted by stargazers in S…,0.5859,0.167,0.833,0.0,51
+BBC News (UK),Mon Mar 19 21:44:38 +0000 2018,"Tuesday's Daily Express 
+""Miracle cure for sight loss""
+
+#tomorrowspaperstoday
+#bbcpapers
+(via @BBCHelenaLee) https://t.co/QoXhdLgg7d",0.3612,0.222,0.643,0.135,52
+BBC News (UK),Mon Mar 19 21:07:58 +0000 2018,"RT @BBCOne: They've finally quacked the case.
+
+https://t.co/eq4dLcauhe",0.0,0.0,1.0,0.0,53
+BBC News (UK),Mon Mar 19 21:06:52 +0000 2018,Cambridge Analytica: Warrant sought to inspect company https://t.co/WB0gogrQSd,0.0,0.0,1.0,0.0,54
+BBC News (UK),Mon Mar 19 20:54:22 +0000 2018,Mariam Moustafa death in Nottingham 'not hate-related' https://t.co/pPkXcCED0K,-0.5994,0.0,0.642,0.358,55
+BBC News (UK),Mon Mar 19 20:13:55 +0000 2018,Child rescued from car in Cardigan river https://t.co/hAUQ4bxN8C,0.4215,0.286,0.714,0.0,56
+BBC News (UK),Mon Mar 19 19:49:36 +0000 2018,St Leonards shooting: Man charged with double murder https://t.co/TgTYbx5vfv,-0.7579,0.0,0.519,0.481,57
+BBC News (UK),Mon Mar 19 18:15:53 +0000 2018,Channel 4 has gender pay gap of 24.2% https://t.co/sWB4acJtew,-0.1027,0.0,0.833,0.167,58
+BBC News (UK),Mon Mar 19 18:03:28 +0000 2018,Parsons Green: Bomber's foster mother felt 'betrayed' https://t.co/VXpAteAdH6,0.0,0.0,1.0,0.0,59
+BBC News (UK),Mon Mar 19 18:03:08 +0000 2018,RT @bbcweather: Temperatures will be on the rise over the next few days... Jo https://t.co/VQtCCxR568,0.0,0.0,1.0,0.0,60
+BBC News (UK),Mon Mar 19 22:38:15 +0000 2018,"Tuesday's Daily Mail
+""A cure for disease that robs thousands of sight""
+
+#tomorrowspaperstoday
+#bbcpapers
+(via… https://t.co/CnQxZoKc5o",-0.4588,0.0,0.833,0.167,61
+BBC News (UK),Mon Mar 19 22:35:49 +0000 2018,"Tuesday's Daily Mirror: 
+""Ant back in rehab""
+
+#tomorrowspaperstoday
+#bbcpapers
+(via @BBCHelenaLee) https://t.co/K6Odw6ZYOF",0.0,0.0,1.0,0.0,62
+BBC News (UK),Mon Mar 19 22:34:03 +0000 2018,"Tuesday's Daily Telegraph: 
+""Fishermen 'betrayed' by May's Brexit deal""
+
+#tomorrowspaperstoday
+#bbcpapers
+(via… https://t.co/tbAN05Sgy9",0.0,0.0,1.0,0.0,63
+BBC News (UK),Mon Mar 19 22:26:15 +0000 2018,"Tuesday's Guardian
+""Data firm's executives caught boasting of dirty tricks to swing elections""… https://t.co/thEEQKq8xk",-0.5267,0.0,0.732,0.268,64
+BBC News (UK),Mon Mar 19 22:22:03 +0000 2018,RT @BBCkatyaadler: Green light for transition deal but - to temper excitement - EU #Brexit mantra is: Nothing is agreed until Everything is…,0.5023,0.243,0.628,0.129,65
+BBC News (UK),Mon Mar 19 22:15:39 +0000 2018,"Tuesday's Sun
+""Ant off TV.. and back in rehab ""
+
+#tomorrowspaperstoday
+#bbcpapers
+(via @BBCHelenaLee) https://t.co/Ka460ncTzu",0.0,0.0,1.0,0.0,66
+BBC News (UK),Mon Mar 19 22:04:28 +0000 2018,"""I knew she might be killed.""
+
+Father speaks of daughter's death fighting with all-female Kurdish armed unit in Syr… https://t.co/TSQLMPxgZg",-0.7506,0.0,0.738,0.262,67
+BBC News (UK),Mon Mar 19 22:00:43 +0000 2018,Commons bullying: Outside figure to head inquiry https://t.co/j6XPOuWVun,-0.5994,0.0,0.642,0.358,68
+BBC News (UK),Mon Mar 19 21:52:44 +0000 2018,"Tuesday's Metro
+""Brexit breakthrough""
+
+#tomorrowspaperstoday
+#bbcpapers
+(via @BBCHelenaLee) https://t.co/SGyZN67rFA",0.0,0.0,1.0,0.0,69
+BBC News (UK),Mon Mar 19 21:48:46 +0000 2018,"Tuesday's i
+""Britain takes a big step towards Brexit deal""
+
+#tomorrowspaperstoday
+#bbcpapers
+(via @BBCHelenaLee) https://t.co/uQlIL6PUSy",0.0,0.0,1.0,0.0,70
+BBC News (UK),Mon Mar 19 21:45:12 +0000 2018,RT @BBCScotlandNews: Some amazing footage of the Northern Lights and a mysterious aurora phenomenon dubbed Steve spotted by stargazers in S…,0.5859,0.167,0.833,0.0,71
+BBC News (UK),Mon Mar 19 21:44:38 +0000 2018,"Tuesday's Daily Express 
+""Miracle cure for sight loss""
+
+#tomorrowspaperstoday
+#bbcpapers
+(via @BBCHelenaLee) https://t.co/QoXhdLgg7d",0.3612,0.222,0.643,0.135,72
+BBC News (UK),Mon Mar 19 21:07:58 +0000 2018,"RT @BBCOne: They've finally quacked the case.
+
+https://t.co/eq4dLcauhe",0.0,0.0,1.0,0.0,73
+BBC News (UK),Mon Mar 19 21:06:52 +0000 2018,Cambridge Analytica: Warrant sought to inspect company https://t.co/WB0gogrQSd,0.0,0.0,1.0,0.0,74
+BBC News (UK),Mon Mar 19 20:54:22 +0000 2018,Mariam Moustafa death in Nottingham 'not hate-related' https://t.co/pPkXcCED0K,-0.5994,0.0,0.642,0.358,75
+BBC News (UK),Mon Mar 19 20:13:55 +0000 2018,Child rescued from car in Cardigan river https://t.co/hAUQ4bxN8C,0.4215,0.286,0.714,0.0,76
+BBC News (UK),Mon Mar 19 19:49:36 +0000 2018,St Leonards shooting: Man charged with double murder https://t.co/TgTYbx5vfv,-0.7579,0.0,0.519,0.481,77
+BBC News (UK),Mon Mar 19 18:15:53 +0000 2018,Channel 4 has gender pay gap of 24.2% https://t.co/sWB4acJtew,-0.1027,0.0,0.833,0.167,78
+BBC News (UK),Mon Mar 19 18:03:28 +0000 2018,Parsons Green: Bomber's foster mother felt 'betrayed' https://t.co/VXpAteAdH6,0.0,0.0,1.0,0.0,79
+BBC News (UK),Mon Mar 19 18:03:08 +0000 2018,RT @bbcweather: Temperatures will be on the rise over the next few days... Jo https://t.co/VQtCCxR568,0.0,0.0,1.0,0.0,80
+BBC News (UK),Mon Mar 19 22:38:15 +0000 2018,"Tuesday's Daily Mail
+""A cure for disease that robs thousands of sight""
+
+#tomorrowspaperstoday
+#bbcpapers
+(via… https://t.co/CnQxZoKc5o",-0.4588,0.0,0.833,0.167,81
+BBC News (UK),Mon Mar 19 22:35:49 +0000 2018,"Tuesday's Daily Mirror: 
+""Ant back in rehab""
+
+#tomorrowspaperstoday
+#bbcpapers
+(via @BBCHelenaLee) https://t.co/K6Odw6ZYOF",0.0,0.0,1.0,0.0,82
+BBC News (UK),Mon Mar 19 22:34:03 +0000 2018,"Tuesday's Daily Telegraph: 
+""Fishermen 'betrayed' by May's Brexit deal""
+
+#tomorrowspaperstoday
+#bbcpapers
+(via… https://t.co/tbAN05Sgy9",0.0,0.0,1.0,0.0,83
+BBC News (UK),Mon Mar 19 22:26:15 +0000 2018,"Tuesday's Guardian
+""Data firm's executives caught boasting of dirty tricks to swing elections""… https://t.co/thEEQKq8xk",-0.5267,0.0,0.732,0.268,84
+BBC News (UK),Mon Mar 19 22:22:03 +0000 2018,RT @BBCkatyaadler: Green light for transition deal but - to temper excitement - EU #Brexit mantra is: Nothing is agreed until Everything is…,0.5023,0.243,0.628,0.129,85
+BBC News (UK),Mon Mar 19 22:15:39 +0000 2018,"Tuesday's Sun
+""Ant off TV.. and back in rehab ""
+
+#tomorrowspaperstoday
+#bbcpapers
+(via @BBCHelenaLee) https://t.co/Ka460ncTzu",0.0,0.0,1.0,0.0,86
+BBC News (UK),Mon Mar 19 22:04:28 +0000 2018,"""I knew she might be killed.""
+
+Father speaks of daughter's death fighting with all-female Kurdish armed unit in Syr… https://t.co/TSQLMPxgZg",-0.7506,0.0,0.738,0.262,87
+BBC News (UK),Mon Mar 19 22:00:43 +0000 2018,Commons bullying: Outside figure to head inquiry https://t.co/j6XPOuWVun,-0.5994,0.0,0.642,0.358,88
+BBC News (UK),Mon Mar 19 21:52:44 +0000 2018,"Tuesday's Metro
+""Brexit breakthrough""
+
+#tomorrowspaperstoday
+#bbcpapers
+(via @BBCHelenaLee) https://t.co/SGyZN67rFA",0.0,0.0,1.0,0.0,89
+BBC News (UK),Mon Mar 19 21:48:46 +0000 2018,"Tuesday's i
+""Britain takes a big step towards Brexit deal""
+
+#tomorrowspaperstoday
+#bbcpapers
+(via @BBCHelenaLee) https://t.co/uQlIL6PUSy",0.0,0.0,1.0,0.0,90
+BBC News (UK),Mon Mar 19 21:45:12 +0000 2018,RT @BBCScotlandNews: Some amazing footage of the Northern Lights and a mysterious aurora phenomenon dubbed Steve spotted by stargazers in S…,0.5859,0.167,0.833,0.0,91
+BBC News (UK),Mon Mar 19 21:44:38 +0000 2018,"Tuesday's Daily Express 
+""Miracle cure for sight loss""
+
+#tomorrowspaperstoday
+#bbcpapers
+(via @BBCHelenaLee) https://t.co/QoXhdLgg7d",0.3612,0.222,0.643,0.135,92
+BBC News (UK),Mon Mar 19 21:07:58 +0000 2018,"RT @BBCOne: They've finally quacked the case.
+
+https://t.co/eq4dLcauhe",0.0,0.0,1.0,0.0,93
+BBC News (UK),Mon Mar 19 21:06:52 +0000 2018,Cambridge Analytica: Warrant sought to inspect company https://t.co/WB0gogrQSd,0.0,0.0,1.0,0.0,94
+BBC News (UK),Mon Mar 19 20:54:22 +0000 2018,Mariam Moustafa death in Nottingham 'not hate-related' https://t.co/pPkXcCED0K,-0.5994,0.0,0.642,0.358,95
+BBC News (UK),Mon Mar 19 20:13:55 +0000 2018,Child rescued from car in Cardigan river https://t.co/hAUQ4bxN8C,0.4215,0.286,0.714,0.0,96
+BBC News (UK),Mon Mar 19 19:49:36 +0000 2018,St Leonards shooting: Man charged with double murder https://t.co/TgTYbx5vfv,-0.7579,0.0,0.519,0.481,97
+BBC News (UK),Mon Mar 19 18:15:53 +0000 2018,Channel 4 has gender pay gap of 24.2% https://t.co/sWB4acJtew,-0.1027,0.0,0.833,0.167,98
+BBC News (UK),Mon Mar 19 18:03:28 +0000 2018,Parsons Green: Bomber's foster mother felt 'betrayed' https://t.co/VXpAteAdH6,0.0,0.0,1.0,0.0,99
+BBC News (UK),Mon Mar 19 18:03:08 +0000 2018,RT @bbcweather: Temperatures will be on the rise over the next few days... Jo https://t.co/VQtCCxR568,0.0,0.0,1.0,0.0,100
+CBS News,Mon Mar 19 23:15:01 +0000 2018,"As fallout over Cambridge Analytica controversy continues, Facebook is pushing back against ""data breach"" character… https://t.co/A0cIpBZyFF",0.0,0.0,1.0,0.0,1
+CBS News,Mon Mar 19 23:03:18 +0000 2018,There are new details in the shooting death of a 13-year-old girl in Mississippi. Family members tell CBS News the… https://t.co/8gtRx3Wxcr,-0.5994,0.0,0.83,0.17,2
+CBS News,Mon Mar 19 23:00:45 +0000 2018,"One day after winning a sixth term as Russian president, Vladimir Putin received congratulation calls today from th… https://t.co/MRz0X1YSdd",0.8074,0.313,0.687,0.0,3
+CBS News,Mon Mar 19 22:59:02 +0000 2018,President Trump has spent part of the past few days airing frustrations about the special counsel investigation int… https://t.co/3Rao3VAFeG,-0.0772,0.119,0.749,0.132,4
+CBS News,Mon Mar 19 22:56:31 +0000 2018,"""All of these pieces of information, put together, create a digital portrait of who you are."" Christopher Wylie, Ca… https://t.co/JD8N7PqzZu",0.2732,0.104,0.896,0.0,5
+CBS News,Mon Mar 19 22:45:27 +0000 2018,There's severe weather tonight in the South. Part of that storm system will form yet another nor'easter. @wbz'… https://t.co/6kx6iMhwuC,-0.3818,0.0,0.874,0.126,6
+CBS News,Mon Mar 19 22:42:04 +0000 2018,"Uber today put the brakes on all road testing of its self-driving 
+cars after a deadly collision. A pedestrian in T… https://t.co/8Zd9bnf7Eb",-0.3612,0.0,0.884,0.116,7
+CBS News,Mon Mar 19 22:39:58 +0000 2018,"A ""serial bomber"" in Austin, Texas, is showing a higher level of sophistication and skill after the latest bombing.… https://t.co/xH7xCjbzR0",0.0,0.0,1.0,0.0,8
+CBS News,Mon Mar 19 22:32:54 +0000 2018,"Joe diGenova, a member of Pres. Trump's legal team in Russia probe, says FBI Director Christopher Wray has ""become… https://t.co/9HvkvAPolQ",0.128,0.077,0.923,0.0,9
+CBS News,Mon Mar 19 21:55:01 +0000 2018,"Climate change -- rising temperatures, more carbon dioxide in the air -- is leading to longer, more intense allergy… https://t.co/CVV0lZ0I6I",0.1513,0.077,0.923,0.0,10
+CBS News,Mon Mar 19 21:35:31 +0000 2018,"WATCH: After a baby deer got stranded on ice, Finnish Border Guards formed a rescue operation to save the little fa… https://t.co/Zdd5itF1Xv",0.7579,0.265,0.735,0.0,11
+CBS News,Mon Mar 19 21:26:26 +0000 2018,"""We are now the most unequal state in the entire country, with both incredible wealth and extreme poverty,"" Cynthia… https://t.co/BS4sIddm4k",0.1298,0.134,0.753,0.113,12
+CBS News,Mon Mar 19 21:15:01 +0000 2018,"Two Broadway superstars unite for mashup between songs from ""Hamilton"" and ""Dear Evan Hansen,"" in support of upcomi… https://t.co/LHqxwBor6Y",0.6486,0.238,0.762,0.0,13
+CBS News,Mon Mar 19 20:55:37 +0000 2018,Two bears found a new home inside the crawlspace of a house -- and the mama and cub are staying put https://t.co/4M1PiJfmHj,0.0,0.0,1.0,0.0,14
+CBS News,Mon Mar 19 20:35:01 +0000 2018,"""I want to see some people be responsible"": Victim's family demands answers after fatal Florida bridge collapse, in… https://t.co/v7cTWxOr3T",-0.7506,0.054,0.667,0.279,15
+CBS News,Mon Mar 19 20:15:01 +0000 2018,"""We're used to operating through different vehicles in the shadows, and I look forward to building a very long term… https://t.co/k5g4P95rMl",0.0,0.0,1.0,0.0,16
+CBS News,Mon Mar 19 20:00:02 +0000 2018,Panel of federal judges dismisses a legal challenge by Republican congressmen to a district map imposed last month… https://t.co/efgOE7II7p,0.128,0.155,0.773,0.072,17
+CBS News,Mon Mar 19 19:45:01 +0000 2018,"Uber has suspended its testing of driverless cars in wake of a deadly accident, yet this month, California's first… https://t.co/lWLzD7MhwQ",-0.7564,0.0,0.724,0.276,18
+CBS News,Mon Mar 19 19:27:01 +0000 2018,"Actress Cynthia Nixon, best known for her role as Miranda Hobbes on ""Sex and the City,"" running for New York govern… https://t.co/FnNDTizRqa",0.6369,0.167,0.833,0.0,19
+CBS News,Mon Mar 19 19:10:27 +0000 2018,"Pres. Trump: ""Drug traffickers kill so many thousands of our citizens every year. That is why my Department of Just… https://t.co/0uYv5vc8KS",-0.6908,0.0,0.81,0.19,20
+CBS News,Mon Mar 19 23:15:01 +0000 2018,"As fallout over Cambridge Analytica controversy continues, Facebook is pushing back against ""data breach"" character… https://t.co/A0cIpBZyFF",0.0,0.0,1.0,0.0,21
+CBS News,Mon Mar 19 23:03:18 +0000 2018,There are new details in the shooting death of a 13-year-old girl in Mississippi. Family members tell CBS News the… https://t.co/8gtRx3Wxcr,-0.5994,0.0,0.83,0.17,22
+CBS News,Mon Mar 19 23:00:45 +0000 2018,"One day after winning a sixth term as Russian president, Vladimir Putin received congratulation calls today from th… https://t.co/MRz0X1YSdd",0.8074,0.313,0.687,0.0,23
+CBS News,Mon Mar 19 22:59:02 +0000 2018,President Trump has spent part of the past few days airing frustrations about the special counsel investigation int… https://t.co/3Rao3VAFeG,-0.0772,0.119,0.749,0.132,24
+CBS News,Mon Mar 19 22:56:31 +0000 2018,"""All of these pieces of information, put together, create a digital portrait of who you are."" Christopher Wylie, Ca… https://t.co/JD8N7PqzZu",0.2732,0.104,0.896,0.0,25
+CBS News,Mon Mar 19 22:45:27 +0000 2018,There's severe weather tonight in the South. Part of that storm system will form yet another nor'easter. @wbz'… https://t.co/6kx6iMhwuC,-0.3818,0.0,0.874,0.126,26
+CBS News,Mon Mar 19 22:42:04 +0000 2018,"Uber today put the brakes on all road testing of its self-driving 
+cars after a deadly collision. A pedestrian in T… https://t.co/8Zd9bnf7Eb",-0.3612,0.0,0.884,0.116,27
+CBS News,Mon Mar 19 22:39:58 +0000 2018,"A ""serial bomber"" in Austin, Texas, is showing a higher level of sophistication and skill after the latest bombing.… https://t.co/xH7xCjbzR0",0.0,0.0,1.0,0.0,28
+CBS News,Mon Mar 19 22:32:54 +0000 2018,"Joe diGenova, a member of Pres. Trump's legal team in Russia probe, says FBI Director Christopher Wray has ""become… https://t.co/9HvkvAPolQ",0.128,0.077,0.923,0.0,29
+CBS News,Mon Mar 19 21:55:01 +0000 2018,"Climate change -- rising temperatures, more carbon dioxide in the air -- is leading to longer, more intense allergy… https://t.co/CVV0lZ0I6I",0.1513,0.077,0.923,0.0,30
+CBS News,Mon Mar 19 21:35:31 +0000 2018,"WATCH: After a baby deer got stranded on ice, Finnish Border Guards formed a rescue operation to save the little fa… https://t.co/Zdd5itF1Xv",0.7579,0.265,0.735,0.0,31
+CBS News,Mon Mar 19 21:26:26 +0000 2018,"""We are now the most unequal state in the entire country, with both incredible wealth and extreme poverty,"" Cynthia… https://t.co/BS4sIddm4k",0.1298,0.134,0.753,0.113,32
+CBS News,Mon Mar 19 21:15:01 +0000 2018,"Two Broadway superstars unite for mashup between songs from ""Hamilton"" and ""Dear Evan Hansen,"" in support of upcomi… https://t.co/LHqxwBor6Y",0.6486,0.238,0.762,0.0,33
+CBS News,Mon Mar 19 20:55:37 +0000 2018,Two bears found a new home inside the crawlspace of a house -- and the mama and cub are staying put https://t.co/4M1PiJfmHj,0.0,0.0,1.0,0.0,34
+CBS News,Mon Mar 19 20:35:01 +0000 2018,"""I want to see some people be responsible"": Victim's family demands answers after fatal Florida bridge collapse, in… https://t.co/v7cTWxOr3T",-0.7506,0.054,0.667,0.279,35
+CBS News,Mon Mar 19 20:15:01 +0000 2018,"""We're used to operating through different vehicles in the shadows, and I look forward to building a very long term… https://t.co/k5g4P95rMl",0.0,0.0,1.0,0.0,36
+CBS News,Mon Mar 19 20:00:02 +0000 2018,Panel of federal judges dismisses a legal challenge by Republican congressmen to a district map imposed last month… https://t.co/efgOE7II7p,0.128,0.155,0.773,0.072,37
+CBS News,Mon Mar 19 19:45:01 +0000 2018,"Uber has suspended its testing of driverless cars in wake of a deadly accident, yet this month, California's first… https://t.co/lWLzD7MhwQ",-0.7564,0.0,0.724,0.276,38
+CBS News,Mon Mar 19 19:27:01 +0000 2018,"Actress Cynthia Nixon, best known for her role as Miranda Hobbes on ""Sex and the City,"" running for New York govern… https://t.co/FnNDTizRqa",0.6369,0.167,0.833,0.0,39
+CBS News,Mon Mar 19 19:10:27 +0000 2018,"Pres. Trump: ""Drug traffickers kill so many thousands of our citizens every year. That is why my Department of Just… https://t.co/0uYv5vc8KS",-0.6908,0.0,0.81,0.19,40
+CBS News,Mon Mar 19 23:15:01 +0000 2018,"As fallout over Cambridge Analytica controversy continues, Facebook is pushing back against ""data breach"" character… https://t.co/A0cIpBZyFF",0.0,0.0,1.0,0.0,41
+CBS News,Mon Mar 19 23:03:18 +0000 2018,There are new details in the shooting death of a 13-year-old girl in Mississippi. Family members tell CBS News the… https://t.co/8gtRx3Wxcr,-0.5994,0.0,0.83,0.17,42
+CBS News,Mon Mar 19 23:00:45 +0000 2018,"One day after winning a sixth term as Russian president, Vladimir Putin received congratulation calls today from th… https://t.co/MRz0X1YSdd",0.8074,0.313,0.687,0.0,43
+CBS News,Mon Mar 19 22:59:02 +0000 2018,President Trump has spent part of the past few days airing frustrations about the special counsel investigation int… https://t.co/3Rao3VAFeG,-0.0772,0.119,0.749,0.132,44
+CBS News,Mon Mar 19 22:56:31 +0000 2018,"""All of these pieces of information, put together, create a digital portrait of who you are."" Christopher Wylie, Ca… https://t.co/JD8N7PqzZu",0.2732,0.104,0.896,0.0,45
+CBS News,Mon Mar 19 22:45:27 +0000 2018,There's severe weather tonight in the South. Part of that storm system will form yet another nor'easter. @wbz'… https://t.co/6kx6iMhwuC,-0.3818,0.0,0.874,0.126,46
+CBS News,Mon Mar 19 22:42:04 +0000 2018,"Uber today put the brakes on all road testing of its self-driving 
+cars after a deadly collision. A pedestrian in T… https://t.co/8Zd9bnf7Eb",-0.3612,0.0,0.884,0.116,47
+CBS News,Mon Mar 19 22:39:58 +0000 2018,"A ""serial bomber"" in Austin, Texas, is showing a higher level of sophistication and skill after the latest bombing.… https://t.co/xH7xCjbzR0",0.0,0.0,1.0,0.0,48
+CBS News,Mon Mar 19 22:32:54 +0000 2018,"Joe diGenova, a member of Pres. Trump's legal team in Russia probe, says FBI Director Christopher Wray has ""become… https://t.co/9HvkvAPolQ",0.128,0.077,0.923,0.0,49
+CBS News,Mon Mar 19 21:55:01 +0000 2018,"Climate change -- rising temperatures, more carbon dioxide in the air -- is leading to longer, more intense allergy… https://t.co/CVV0lZ0I6I",0.1513,0.077,0.923,0.0,50
+CBS News,Mon Mar 19 21:35:31 +0000 2018,"WATCH: After a baby deer got stranded on ice, Finnish Border Guards formed a rescue operation to save the little fa… https://t.co/Zdd5itF1Xv",0.7579,0.265,0.735,0.0,51
+CBS News,Mon Mar 19 21:26:26 +0000 2018,"""We are now the most unequal state in the entire country, with both incredible wealth and extreme poverty,"" Cynthia… https://t.co/BS4sIddm4k",0.1298,0.134,0.753,0.113,52
+CBS News,Mon Mar 19 21:15:01 +0000 2018,"Two Broadway superstars unite for mashup between songs from ""Hamilton"" and ""Dear Evan Hansen,"" in support of upcomi… https://t.co/LHqxwBor6Y",0.6486,0.238,0.762,0.0,53
+CBS News,Mon Mar 19 20:55:37 +0000 2018,Two bears found a new home inside the crawlspace of a house -- and the mama and cub are staying put https://t.co/4M1PiJfmHj,0.0,0.0,1.0,0.0,54
+CBS News,Mon Mar 19 20:35:01 +0000 2018,"""I want to see some people be responsible"": Victim's family demands answers after fatal Florida bridge collapse, in… https://t.co/v7cTWxOr3T",-0.7506,0.054,0.667,0.279,55
+CBS News,Mon Mar 19 20:15:01 +0000 2018,"""We're used to operating through different vehicles in the shadows, and I look forward to building a very long term… https://t.co/k5g4P95rMl",0.0,0.0,1.0,0.0,56
+CBS News,Mon Mar 19 20:00:02 +0000 2018,Panel of federal judges dismisses a legal challenge by Republican congressmen to a district map imposed last month… https://t.co/efgOE7II7p,0.128,0.155,0.773,0.072,57
+CBS News,Mon Mar 19 19:45:01 +0000 2018,"Uber has suspended its testing of driverless cars in wake of a deadly accident, yet this month, California's first… https://t.co/lWLzD7MhwQ",-0.7564,0.0,0.724,0.276,58
+CBS News,Mon Mar 19 19:27:01 +0000 2018,"Actress Cynthia Nixon, best known for her role as Miranda Hobbes on ""Sex and the City,"" running for New York govern… https://t.co/FnNDTizRqa",0.6369,0.167,0.833,0.0,59
+CBS News,Mon Mar 19 19:10:27 +0000 2018,"Pres. Trump: ""Drug traffickers kill so many thousands of our citizens every year. That is why my Department of Just… https://t.co/0uYv5vc8KS",-0.6908,0.0,0.81,0.19,60
+CBS News,Mon Mar 19 23:15:01 +0000 2018,"As fallout over Cambridge Analytica controversy continues, Facebook is pushing back against ""data breach"" character… https://t.co/A0cIpBZyFF",0.0,0.0,1.0,0.0,61
+CBS News,Mon Mar 19 23:03:18 +0000 2018,There are new details in the shooting death of a 13-year-old girl in Mississippi. Family members tell CBS News the… https://t.co/8gtRx3Wxcr,-0.5994,0.0,0.83,0.17,62
+CBS News,Mon Mar 19 23:00:45 +0000 2018,"One day after winning a sixth term as Russian president, Vladimir Putin received congratulation calls today from th… https://t.co/MRz0X1YSdd",0.8074,0.313,0.687,0.0,63
+CBS News,Mon Mar 19 22:59:02 +0000 2018,President Trump has spent part of the past few days airing frustrations about the special counsel investigation int… https://t.co/3Rao3VAFeG,-0.0772,0.119,0.749,0.132,64
+CBS News,Mon Mar 19 22:56:31 +0000 2018,"""All of these pieces of information, put together, create a digital portrait of who you are."" Christopher Wylie, Ca… https://t.co/JD8N7PqzZu",0.2732,0.104,0.896,0.0,65
+CBS News,Mon Mar 19 22:45:27 +0000 2018,There's severe weather tonight in the South. Part of that storm system will form yet another nor'easter. @wbz'… https://t.co/6kx6iMhwuC,-0.3818,0.0,0.874,0.126,66
+CBS News,Mon Mar 19 22:42:04 +0000 2018,"Uber today put the brakes on all road testing of its self-driving 
+cars after a deadly collision. A pedestrian in T… https://t.co/8Zd9bnf7Eb",-0.3612,0.0,0.884,0.116,67
+CBS News,Mon Mar 19 22:39:58 +0000 2018,"A ""serial bomber"" in Austin, Texas, is showing a higher level of sophistication and skill after the latest bombing.… https://t.co/xH7xCjbzR0",0.0,0.0,1.0,0.0,68
+CBS News,Mon Mar 19 22:32:54 +0000 2018,"Joe diGenova, a member of Pres. Trump's legal team in Russia probe, says FBI Director Christopher Wray has ""become… https://t.co/9HvkvAPolQ",0.128,0.077,0.923,0.0,69
+CBS News,Mon Mar 19 21:55:01 +0000 2018,"Climate change -- rising temperatures, more carbon dioxide in the air -- is leading to longer, more intense allergy… https://t.co/CVV0lZ0I6I",0.1513,0.077,0.923,0.0,70
+CBS News,Mon Mar 19 21:35:31 +0000 2018,"WATCH: After a baby deer got stranded on ice, Finnish Border Guards formed a rescue operation to save the little fa… https://t.co/Zdd5itF1Xv",0.7579,0.265,0.735,0.0,71
+CBS News,Mon Mar 19 21:26:26 +0000 2018,"""We are now the most unequal state in the entire country, with both incredible wealth and extreme poverty,"" Cynthia… https://t.co/BS4sIddm4k",0.1298,0.134,0.753,0.113,72
+CBS News,Mon Mar 19 21:15:01 +0000 2018,"Two Broadway superstars unite for mashup between songs from ""Hamilton"" and ""Dear Evan Hansen,"" in support of upcomi… https://t.co/LHqxwBor6Y",0.6486,0.238,0.762,0.0,73
+CBS News,Mon Mar 19 20:55:37 +0000 2018,Two bears found a new home inside the crawlspace of a house -- and the mama and cub are staying put https://t.co/4M1PiJfmHj,0.0,0.0,1.0,0.0,74
+CBS News,Mon Mar 19 20:35:01 +0000 2018,"""I want to see some people be responsible"": Victim's family demands answers after fatal Florida bridge collapse, in… https://t.co/v7cTWxOr3T",-0.7506,0.054,0.667,0.279,75
+CBS News,Mon Mar 19 20:15:01 +0000 2018,"""We're used to operating through different vehicles in the shadows, and I look forward to building a very long term… https://t.co/k5g4P95rMl",0.0,0.0,1.0,0.0,76
+CBS News,Mon Mar 19 20:00:02 +0000 2018,Panel of federal judges dismisses a legal challenge by Republican congressmen to a district map imposed last month… https://t.co/efgOE7II7p,0.128,0.155,0.773,0.072,77
+CBS News,Mon Mar 19 19:45:01 +0000 2018,"Uber has suspended its testing of driverless cars in wake of a deadly accident, yet this month, California's first… https://t.co/lWLzD7MhwQ",-0.7564,0.0,0.724,0.276,78
+CBS News,Mon Mar 19 19:27:01 +0000 2018,"Actress Cynthia Nixon, best known for her role as Miranda Hobbes on ""Sex and the City,"" running for New York govern… https://t.co/FnNDTizRqa",0.6369,0.167,0.833,0.0,79
+CBS News,Mon Mar 19 19:10:27 +0000 2018,"Pres. Trump: ""Drug traffickers kill so many thousands of our citizens every year. That is why my Department of Just… https://t.co/0uYv5vc8KS",-0.6908,0.0,0.81,0.19,80
+CBS News,Mon Mar 19 23:15:01 +0000 2018,"As fallout over Cambridge Analytica controversy continues, Facebook is pushing back against ""data breach"" character… https://t.co/A0cIpBZyFF",0.0,0.0,1.0,0.0,81
+CBS News,Mon Mar 19 23:03:18 +0000 2018,There are new details in the shooting death of a 13-year-old girl in Mississippi. Family members tell CBS News the… https://t.co/8gtRx3Wxcr,-0.5994,0.0,0.83,0.17,82
+CBS News,Mon Mar 19 23:00:45 +0000 2018,"One day after winning a sixth term as Russian president, Vladimir Putin received congratulation calls today from th… https://t.co/MRz0X1YSdd",0.8074,0.313,0.687,0.0,83
+CBS News,Mon Mar 19 22:59:02 +0000 2018,President Trump has spent part of the past few days airing frustrations about the special counsel investigation int… https://t.co/3Rao3VAFeG,-0.0772,0.119,0.749,0.132,84
+CBS News,Mon Mar 19 22:56:31 +0000 2018,"""All of these pieces of information, put together, create a digital portrait of who you are."" Christopher Wylie, Ca… https://t.co/JD8N7PqzZu",0.2732,0.104,0.896,0.0,85
+CBS News,Mon Mar 19 22:45:27 +0000 2018,There's severe weather tonight in the South. Part of that storm system will form yet another nor'easter. @wbz'… https://t.co/6kx6iMhwuC,-0.3818,0.0,0.874,0.126,86
+CBS News,Mon Mar 19 22:42:04 +0000 2018,"Uber today put the brakes on all road testing of its self-driving 
+cars after a deadly collision. A pedestrian in T… https://t.co/8Zd9bnf7Eb",-0.3612,0.0,0.884,0.116,87
+CBS News,Mon Mar 19 22:39:58 +0000 2018,"A ""serial bomber"" in Austin, Texas, is showing a higher level of sophistication and skill after the latest bombing.… https://t.co/xH7xCjbzR0",0.0,0.0,1.0,0.0,88
+CBS News,Mon Mar 19 22:32:54 +0000 2018,"Joe diGenova, a member of Pres. Trump's legal team in Russia probe, says FBI Director Christopher Wray has ""become… https://t.co/9HvkvAPolQ",0.128,0.077,0.923,0.0,89
+CBS News,Mon Mar 19 21:55:01 +0000 2018,"Climate change -- rising temperatures, more carbon dioxide in the air -- is leading to longer, more intense allergy… https://t.co/CVV0lZ0I6I",0.1513,0.077,0.923,0.0,90
+CBS News,Mon Mar 19 21:35:31 +0000 2018,"WATCH: After a baby deer got stranded on ice, Finnish Border Guards formed a rescue operation to save the little fa… https://t.co/Zdd5itF1Xv",0.7579,0.265,0.735,0.0,91
+CBS News,Mon Mar 19 21:26:26 +0000 2018,"""We are now the most unequal state in the entire country, with both incredible wealth and extreme poverty,"" Cynthia… https://t.co/BS4sIddm4k",0.1298,0.134,0.753,0.113,92
+CBS News,Mon Mar 19 21:15:01 +0000 2018,"Two Broadway superstars unite for mashup between songs from ""Hamilton"" and ""Dear Evan Hansen,"" in support of upcomi… https://t.co/LHqxwBor6Y",0.6486,0.238,0.762,0.0,93
+CBS News,Mon Mar 19 20:55:37 +0000 2018,Two bears found a new home inside the crawlspace of a house -- and the mama and cub are staying put https://t.co/4M1PiJfmHj,0.0,0.0,1.0,0.0,94
+CBS News,Mon Mar 19 20:35:01 +0000 2018,"""I want to see some people be responsible"": Victim's family demands answers after fatal Florida bridge collapse, in… https://t.co/v7cTWxOr3T",-0.7506,0.054,0.667,0.279,95
+CBS News,Mon Mar 19 20:15:01 +0000 2018,"""We're used to operating through different vehicles in the shadows, and I look forward to building a very long term… https://t.co/k5g4P95rMl",0.0,0.0,1.0,0.0,96
+CBS News,Mon Mar 19 20:00:02 +0000 2018,Panel of federal judges dismisses a legal challenge by Republican congressmen to a district map imposed last month… https://t.co/efgOE7II7p,0.128,0.155,0.773,0.072,97
+CBS News,Mon Mar 19 19:45:01 +0000 2018,"Uber has suspended its testing of driverless cars in wake of a deadly accident, yet this month, California's first… https://t.co/lWLzD7MhwQ",-0.7564,0.0,0.724,0.276,98
+CBS News,Mon Mar 19 19:27:01 +0000 2018,"Actress Cynthia Nixon, best known for her role as Miranda Hobbes on ""Sex and the City,"" running for New York govern… https://t.co/FnNDTizRqa",0.6369,0.167,0.833,0.0,99
+CBS News,Mon Mar 19 19:10:27 +0000 2018,"Pres. Trump: ""Drug traffickers kill so many thousands of our citizens every year. That is why my Department of Just… https://t.co/0uYv5vc8KS",-0.6908,0.0,0.81,0.19,100
